@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "doehler.png"
+  # avatar           : # "doehler.png"
   name             : "Christian Döhler"
   pronouns         : # example: "he/his"  
   bio              : "researcher"
