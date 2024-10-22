@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Christian Döhler"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chrdoe.github.io/chrdoehler/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "doehler.png"
-  name             : "Christian Döhler [ˈkʁis.ti̯ɐn ˈdøˑ.lɛɐ̯]"
+  avatar           : #"doehler.png"
+  name             : "[ˈkʁis.ti̯ɐn ˈdøˑ.lɛɐ̯]"
   pronouns         : # example: "he/his"  
   bio              : "researcher"
   location         : "Potsdam"
