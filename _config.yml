@@ -25,15 +25,14 @@ author:
   name             : "Christian Döhler"
   pronouns         : # example: "he/his"  
   bio              : "researcher in linguistics"
-  location         : "Potsdam"
+  location         : "Potsdam-Berlin"
   employer         : "BBAW"
-  uri              : # URL
+  uri              : "https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/doehler-christian"
   email            : "christian.doehler@posteo.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=v2ydiy8AAAAJ"
-  bbaw      	   : "https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/doehler-christian"	
   orcid            : "https://orcid.org/0000-0002-9659-5920"
   researchgate     : "https://www.researchgate.net/profile/Christian-Doehler"
 
