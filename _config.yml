@@ -26,18 +26,16 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "researcher"
   location         : "Potsdam"
-  employer         : "Berlin-Brandenburg Academy of Sciences and Humanities"
+  employer         : "BBAW"
   uri              : # URL
   email            : "christian.doehler@posteo.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=v2ydiy8AAAAJ"
-  impactstory      : # URL
+  bbaw      	   : "https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/doehler-christian"	
   orcid            : "https://orcid.org/0000-0002-9659-5920"
-  semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Christian-Doehler"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
