@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Christian Döhler"
+title                    : "[ˈkʁis.ti̯ɐn ˈdøˑ.lɛɐ̯]"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : #"doehler.png"
-  name             : "[ˈkʁis.ti̯ɐn ˈdøˑ.lɛɐ̯]"
+  name             : "Christian Döhler"
   pronouns         : # example: "he/his"  
   bio              : "researcher"
   location         : "Potsdam"
