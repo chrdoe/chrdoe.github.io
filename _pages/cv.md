@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in linguistics, thesis: ***A Grammar of Komnzo - a language of Southern New Guinea***, Australian National University, Canberra 2016
-* Magister Artium in political science, thesis ***Die Sprache des Migrationsdiskurses - Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation***, Technische Universität Chemnitz, 2009
-* Honours Degree in linguistics, thesis: ***The clusivity flip - patterns of deponency in the pronoun paradigms of Northern Australian languages***, University of Melbourne, 2007
+* Ph.D in linguistics
+	* Australian National University, Canberra 2016
+	* thesis: ***A Grammar of Komnzo - a language of Southern New Guinea***
+* Magister Artium in political science, english linguistics, and applied linguistics
+	* Technische Universität Chemnitz, 2009
+	* thesis: ***Die Sprache des Migrationsdiskurses - Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation***
+* Honours Degree in linguistics
+	* University of Melbourne, 2007
+	* thesis: ***The clusivity flip - patterns of deponency in the pronoun paradigms of Northern Australian languages***
 
 Work experience
 ======
