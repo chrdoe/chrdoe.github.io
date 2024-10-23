@@ -21,7 +21,7 @@ Education
 	* University of Melbourne, 2007
 	* thesis: *The clusivity flip - patterns of deponency in the pronoun paradigms of Northern Australian languages*
 
-Work experience
+Work
 ======
 * 2023-today: Postdoctoral Researcher
 	* Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany
@@ -67,7 +67,7 @@ Work experience
 	* Department of English Linguistics, TU Chemnitz, Germany
 	* I helped with the compilation of a corpus of scientific texts and their popular science counterparts. In the project *Hedging in academic English* the text corpus was scanned for hedging expressions on different linguistic levels and coded for the degree of stance
 	
-Fieldwork
+Research travel
 ====
 
 * 2019: Bine ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 2 months, Irukupi, Western Province, Papua New Guinea
