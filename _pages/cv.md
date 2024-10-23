@@ -39,12 +39,12 @@ Work experience
 * 2016/2017: Researcher
 	* Australian National University, Canberra
 	* I carried out primary data collection for Idi and Komnzo for the ARC project [*The Wellsprings of Linguistic Diversity*](https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity)
-* 2010-2015: Researcher
-	* Australian National University, Canberra
-	* I carried out primary data collection and archiving for the DOBES project (Volkswagen Foundation) [*Nen and Komnzo - two languages of Southern New Guinea*](https://dobes.mpi.nl/projects/morehead/)
 * 2015-2016: Lecturer
 	* Christian-Albrechts-Universität zu Kiel, Germany
 	* I was teaching the following classes: Syntax (BA), Language contact (BA/MA), Introduction to Papuan languages (MA)
+* 2010-2015: Researcher
+	* Australian National University, Canberra
+	* I carried out primary data collection and archiving for the DOBES project (Volkswagen Foundation) [*Nen and Komnzo - two languages of Southern New Guinea*](https://dobes.mpi.nl/projects/morehead/)
 * 2009: Teacher
 	* Bildungswerkstatt Chemnitz gGmbH, Germany
 	* The work was funded by the Leonardo program. I taught English for special purposes (ESP) to students of mechatronics from Chemnitz during their exchange at [Ammattiopisto Lappia](https://www.lappia.fi/) in Kemi, Finland
