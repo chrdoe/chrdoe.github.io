@@ -66,3 +66,19 @@ Work experience
 * 2005-2006: Research assistant
 	* Department of English Linguistics, TU Chemnitz, Germany
 	* I helped with the compilation of a corpus of scientific texts and their popular science counterparts. In the project *Hedging in academic English* the text corpus was scanned for hedging expressions on different linguistic levels and coded for the degree of stance
+	
+Fieldwork
+====
+
+* 2019: Bine ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 2 months, Irukupi, Western Province, Papua New Guinea
+* 2018: Bine ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 5 months, Irukupi, Western Province, Papua New Guinea
+* 2017: Idi ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 2 months, Bimadbn/Dimsisi, Western Province, Papua New Guinea
+* 2016: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 1 month, Rouku, Western Province, Papua New Guinea
+* 2016: Idi ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 1 month, Bimadbn/Dimsisi, Western Province, Papua New Guinea
+* 2015: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
+* 2013: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 3 months, Rouku, Western Province, Papua New Guinea
+* 2012: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 3 months, Rouku, Western Province, Papua New Guinea
+* 2012: Warta Thuntai ([gunt1241](https://glottolog.org/resource/languoid/id/gunt1241)), field methods class, Australian National University, Canberra
+* 2011: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 5 months, Rouku, Western Province, Papua New Guinea
+* 2010: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
+* 2010: Tolaki ([tola1247](https://glottolog.org/resource/languoid/id/tola1247)), field methods class, Australian National University, Canberra
