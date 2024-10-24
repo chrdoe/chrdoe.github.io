@@ -83,7 +83,7 @@ Field research
 * 2010: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
 * 2010: Tolaki ([tola1247](https://glottolog.org/resource/languoid/id/tola1247)), field methods class, Australian National University, Canberra
 
-Membership & service
+Membership
 ====
 
 * since 2021: Societas Linguistica Europaea (SLE)
@@ -92,6 +92,9 @@ Membership & service
 * since 2015: European Society for Oceanicists (ESfO)
 * since 2014: Gesellschaft für bedrohte Sprachen e.V. (GbS)
 
+Service
+====
+
 * 2024: Language Science Press: Open Text Collections, editor
 * 2022-2023: ZAS workers' council (Betriebsrat), member
 * since 2021: Förderverein deutsche Linguistik-Olympiade e.V. (DOL), board member
@@ -99,3 +102,21 @@ Membership & service
 * 2018-2021: Language Science Press: Studies in Diversity Linguistics, editorial board
 * since 2015: Language Science Press, proofreader
 * 2013-2014: Department of Linguistics, ANU, PhD student representative
+* I have reviewed articles and book for: Studies in Linguistics, NUSA, International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics
+
+Funding
+====
+
+* 2023-2026: Deutsche Forschungsgemeinschaft (DFG), *Open Text Collections* (EUR 443,590); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur
+* 2017-2019: Endangered Languages Documentation Programme (ELDP), *A comprehensive documentation of Bine - a language of Southern New Guinea* (GBP 142,791)
+* 2010-2015: Volkswagen Foundation (DoBeS), *Nen \& Komnzo - Two languages of Southern New Guinea* (AUD 260,000); co-applicant with Nicholas Evans
+* 2013: Australian National University (ANU) *Vice Chancellor Travel Grant*
+* 2010-2013: Australian National University (ANU), *Stephen and Helen Wurm Bequest* (annual PhD stipend)
+
+Awards
+====
+
+* 2022: Association for Linguistic Typology (ALT), [Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award) for *A grammar of Komnzo*
+* 2020: The Digital Endangered Languages & Musics Archives Network (DELAMAN), Franz Boas Award: honourable mention for the *Bine collection* at ELAR
+* 2017: Australian National University (ANU), Stephen Wurm Prize for Pacific Linguistics for *A grammar of Komnzo*
+* 2016: The Digital Endangered Languages & Musics Archives Network (DELAMAN), Franz Boas Award: honourable mention for the *Komnzo collection* at TLA
