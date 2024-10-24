@@ -9,10 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
-====
+Monographs
+===
 
 * (accepted) *Speaking the map: Komnzo texts*. Berlin: Language Science Press.
+* (2018) *A grammar of Komnzo*. Berlin: Language Science Press. DOI: [10.5281/zenodo.1477799](https://doi.org/10.5281/zenodo.1477799)
+
+Articles & chapters
+===
+
 * (accepted) *That* placeholder in Komnzo. In: Pakendorf, B. and Rose, F. (eds.), *Fillers and Placeholders*. Berlin: Language Science Press.
 * (forthcoming) Multilingualism in the Papuasphere. In: Evans, Nicholas. and Fedden, Sebastian. (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
 * (forthcoming) with Olsson, Bruno. Alignment. In: Evans, Nicholas. and Fedden, Sebastian. (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
@@ -27,12 +32,11 @@ Publications
 * (2022) Feldforschung in Zeiten pandemiebedingter Reisebeschränkungen. In: Leibniz-Zentrum Allgemeine Sprachwissenschaft (ed.). *Bericht über das Forschungsjahr 2020/2021*, 132-134. Berlin: ZAS.
 * (2021) Birds and places: What the lexicon reveals about multilingualism. *International Journal of Bilingualism*, vol. 25, no. 4, pp. 1142-1157. DOI: [10.1177/13670069211023158](https://doi.org/10.1177/13670069211023158)
 * (2021) with Shokkin, Dineke, Gast, Volker and Evans, Nicholas. Phonetics and phonology of Idi. *Language Documentation \& Conservation - Special Issue No.24: Phonology in Southern New Guinea*, pp. 76-107, URL: [http://hdl.handle.net/10125/24995](http://hdl.handle.net/10125/24995)
-* (2018) *A grammar of Komnzo*. Berlin: Language Science Press. DOI: [10.5281/zenodo.1477799](https://doi.org/10.5281/zenodo.1477799)
 * (2017) with Nicholas Evans, I Wayan Arka, Matthew Carroll, Eri Kashima, Emil Mittag, Kyla Quinn, Jeff Siegel, Philip Tama, and Charlotte van Tongeren. The languages of Southern New Guinea. In: B. Palmer (ed.), *The Languages and Linguistics of New Guinea: A comprehensive guide*, 641--774. Berlin/Boston: De Gruyter Mouton. DOI: [10.1515/9783110295252-006](https://doi.org/10.1515/9783110295252-006}) 
-* (2012) A review of ''Grummitt \& Masters (2012) *Survey of the Tonda Sub-Group of Languages*'', Zenodo. DOI: [10.5281/zenodo.1404752](http://doi.org/10.5281/zenodo.1404752)
+* (2012) A review of ''Grummitt & Masters (2012) *Survey of the Tonda Sub-Group of Languages*'', Zenodo. DOI: [10.5281/zenodo.1404752](http://doi.org/10.5281/zenodo.1404752)
 
 Documentation material
-====
+===
 
 * (2018) *A comprehensive documentation of Bine - a language of Southern New Guinea*. London: SOAS, Endangered Languages Archive. URL: [https://elar.soas.ac.uk/Collection/MPI1083775](https://elar.soas.ac.uk/Collection/MPI1083775)
 * (2018) *Komnzo text corpus*. Zenodo. DOI: [10.5281/zenodo.1532661](http://doi.org/10.5281/zenodo.1532661)
@@ -41,7 +45,7 @@ Documentation material
 * (2015) *Komnzo - a language of Southern New Guinea*. Nijmegen: DOBES, The Language Archive. URL: [https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11](https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11)
 
 Theses
-====
+===
 
 * (2016) *A grammar of Komnzo - A language of Southern New Guinea*, Doctoral dissertation, Australian National University, Canberra. DOI: [10.25911/5d778a5c79763](https://doi.org/10.25911/5d778a5c79763)
 * (2008) *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)*, Magisterarbeit, Technische Universität Chemnitz.
