@@ -13,4 +13,4 @@ Among the research results I wish to boast about are this [grammar of Komnzo](ht
 
 I am currently employed at the Berlin-Brandenburg Academy of Sciences and Humanities in Berlin, where I am a member of the DFG-funded research project [Open Text Collections](https://opentextcollections.github.io/).
 
-If I happen to be unresponsive to emails (especially in summer), it's probably because I am out [sailing](https://www.instagram.com/reel/C-5esc0NTUb) this [Kosterbåt](files/trossö.pdf) from 1942.
+If I happen to be unresponsive to emails (especially in summer), it's probably because I am out [sailing](https://www.instagram.com/reel/C-5esc0NTUb) this [Kosterbåt](/files/trossö.pdf) from 1942.
