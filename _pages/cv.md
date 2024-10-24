@@ -104,6 +104,14 @@ Service
 * 2013-2014: Department of Linguistics, ANU, PhD student representative
 * I have reviewed articles and book for: Studies in Linguistics, NUSA, International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics
 
+Conference organization
+====
+
+* Jun 2022 [14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/), {Leibniz-Centre General Linguistics & Humboldt University, Berlin.
+* Dec 2021 [MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.com/view/multexzas/home), Leibniz-Centre General Linguistics, Berlin.
+* May 2013 2nd Workshop on the Languages of Melanesia, Australian National University, Canberra.
+* Mar 2012 1st Workshop on the Languages of Melanesia, Australian National University, Canberra.
+
 Funding
 ====
 

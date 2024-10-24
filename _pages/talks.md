@@ -15,7 +15,9 @@ Invited Talks
 * Nov 2023: *Feldforschung in Neuguinea*. guest lecture, Universität Regensburg.
 * Mar 2023: *Sprache als Kulturgut*. Einstein Tag, Einstein Gymnasium, Angermünde.
 * Dec 2022: *Every language matters! Types of knowledge that come from individual descriptions*. plenary lecture, 14th International Conference of the Association for Linguistic Typology, University of Austin Texas.
+* May 2021: *SCOPIC and the Komnzo corpus*. guest lecture for the seminar ''Corpus linguistics'', Humboldt Universität, Berlin.
 * Feb 2021: *Small-scale multilingualism in the Pacific*. roundtable discussion, L'Institut des langues rares, Paris.
+* Dec 2020: *Numeral systems*. guest lecture for the seminar ''Language in its environment'', Universität zu Köln.
 * Nov 2019: *Yams zählen: Sprache, Landwirtschaft und Klimawandel in Papua-Neuguinea*. climate week seminar series, Universität Potsdam.
 * Oct 2019: *The middle template in Komnzo*. guest lecture, Katholieke Universiteit, Leuven.
 * Nov 2012: *Linguistic fieldwork in Papua New Guinea*. guest lecture, TU Chemnitz.
@@ -39,9 +41,7 @@ Conference presentations
 * Jan 2022: *Multilingual language ecologies in Southern New Guinea: a comparison of two villages*. departmental seminar, Leibniz-Centre General Linguistics, Berlin.
 * Dec 2021: *Number marking in the Tonda languages: a note on its history*. Workshop on multiple exponence, Leibniz-Centre General Linguistics, Berlin.
 * Jun 2021: *Front rounded vowels in the Tonda languages of the Yam family*. 13th Austronesian and Papuan Languages and Linguistics Conference, University of Edinburgh.
-* May 2021: *SCOPIC and the Komnzo corpus*. guest lecture for the seminar ''Corpus linguistics'', Humboldt Universität, Berlin.
-* Mar 2021: *Placeholders in Komnzo and Bine: A corpus view}. CNRS, Lyon.
-* Dec 2020: *Numeral systems*. guest lecture for the seminar ''Language in its environment'', Universität zu Köln.
+* Mar 2021: *Placeholders in Komnzo and Bine: A corpus view*. CNRS, Lyon.
 * Nov 2020: *Periphals in Proto-Yam*. Australian National University, Canberra. [with Matthew Carroll and Nicholas Evans]
 * Oct 2020: *Placeholders*. Australian National University, Canberra.
 * Jul 2020: *The inclusory construction in Komnzo*. departmental seminar, Leibniz-Centre General Linguistics, Berlin.
@@ -75,11 +75,3 @@ Conference presentations
 * Dec 2011: *Affixes of all slots, Unite! - verbal morphology in Kómnzo*. Australian National University, Canberra
 * May 2011: *Pronominal syncretism in the languages of Northern Australia. Max Planck Institute for Evolutionary Anthropology, Leipzig.
 * Mar 2011: *Positional Verbs in Kómnjo*. Max Planck Institute for Evolutionary Anthropology, Leipzig.
-
-Conference organization
-====
-
-* Jun 2022 [14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/), {Leibniz-Centre General Linguistics & Humboldt University, Berlin.
-* Dec 2021 [MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.com/view/multexzas/home), Leibniz-Centre General Linguistics, Berlin.
-* May 2013 2nd Workshop on the Languages of Melanesia, Australian National University, Canberra.
-* Mar 2012 1st Workshop on the Languages of Melanesia, Australian National University, Canberra.
