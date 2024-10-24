@@ -109,7 +109,7 @@ Funding
 
 * 2023-2026: Deutsche Forschungsgemeinschaft (DFG), *[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)* (EUR 443,590); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur
 * 2017-2019: Endangered Languages Documentation Programme (ELDP), *[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)* (GBP 142,791)
-* 2010-2015: Volkswagen Foundation (DoBeS), *[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)* (AUD 260,000); co-applicant with Nicholas Evans
+* 2010-2015: Volkswagen Foundation (DoBeS), *[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)* (AUD 260,000); co-applicant with Nicholas Evans and Julia Colleen Miller
 * 2013: Australian National University (ANU) *[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)*
 * 2010-2013: Australian National University (ANU), *[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)* (annual PhD stipend)
 
