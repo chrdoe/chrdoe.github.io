@@ -67,7 +67,7 @@ Work
 	* Department of English Linguistics, TU Chemnitz, Germany
 	* I helped with the compilation of a corpus of scientific texts and their popular science counterparts. In the project *Hedging in academic English* the text corpus was scanned for hedging expressions on different linguistic levels and coded for the degree of stance
 	
-Research travel
+Field research
 ====
 
 * 2019: Bine ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 2 months, Irukupi, Western Province, Papua New Guinea
@@ -82,3 +82,20 @@ Research travel
 * 2011: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 5 months, Rouku, Western Province, Papua New Guinea
 * 2010: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
 * 2010: Tolaki ([tola1247](https://glottolog.org/resource/languoid/id/tola1247)), field methods class, Australian National University, Canberra
+
+Membership & service
+====
+
+* since 2021: Societas Linguistica Europaea (SLE)
+* since 2021: Association for Linguistic Typology (ALT)
+* since 2016: Nordic Anthropological Film Association (NAFA)
+* since 2015: European Society for Oceanicists (ESfO)
+* since 2014: Gesellschaft für bedrohte Sprachen e.V. (GbS)
+
+* 2024: Language Science Press: Open Text Collections, editor
+* 2022-2023: ZAS workers' council (Betriebsrat), member
+* since 2021: Förderverein deutsche Linguistik-Olympiade e.V. (DOL), board member
+* since 2021: Language Science Press: Comprehensive Grammar Library, editorial board
+* 2018-2021: Language Science Press: Studies in Diversity Linguistics, editorial board
+* since 2015: Language Science Press, proofreader
+* 2013-2014: Department of Linguistics, ANU, PhD student representative

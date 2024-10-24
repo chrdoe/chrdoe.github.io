@@ -9,7 +9,7 @@ Upcoming
 ====
 tba
 
-Invited Talks
+####Invited Talks
 ====
 
 * Nov 2023: *Feldforschung in Neuguinea*. guest lecture, Universität Regensburg.
@@ -20,7 +20,7 @@ Invited Talks
 * Oct 2019: *The middle template in Komnzo*. guest lecture, Katholieke Universiteit, Leuven.
 * Nov 2012: *Linguistic fieldwork in Papua New Guinea*. guest lecture, TU Chemnitz.
 
-Conference presentations
+####Conference presentations
 ====
 
 * Sep 2024: *Can we reconstruct an ERG-ABS system for pYam?* The diachrony of flagging (Cas et adpositions en diachronie), Collège de France, Paris.
@@ -76,7 +76,7 @@ Conference presentations
 * May 2011: *Pronominal syncretism in the languages of Northern Australia. Max Planck Institute for Evolutionary Anthropology, Leipzig.
 * Mar 2011: *Positional Verbs in Kómnjo*. Max Planck Institute for Evolutionary Anthropology, Leipzig.
 
-Conference organization
+####Conference organization
 ====
 
 * Jun 2022 [14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/), {Leibniz-Centre General Linguistics & Humboldt University, Berlin.

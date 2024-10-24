@@ -18,11 +18,11 @@ Monographs
 Articles & chapters
 ===
 
-* (accepted) *That* placeholder in Komnzo. In: Pakendorf, B. and Rose, F. (eds.), *Fillers and Placeholders*. Berlin: Language Science Press.
 * (forthcoming) Multilingualism in the Papuasphere. In: Evans, Nicholas. and Fedden, Sebastian. (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
 * (forthcoming) with Olsson, Bruno. Alignment. In: Evans, Nicholas. and Fedden, Sebastian. (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
 * (forthcoming) with Nicholas, Evans and Carroll, Mae. Historical Linguistics of the Yam family. In: Evans, Nicholas. and Fedden, Sebastian. (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
 * (forthcoming) Bine sketch grammar. In: Evans, Nicholas. and Fedden, Sebastian. (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
+* (accepted) *That* placeholder in Komnzo. In: Pakendorf, B. and Rose, F. (eds.), *Fillers and Placeholders*. Berlin: Language Science Press.
 * (2024) with Nordhoff, Sebastian, and Seyfeddinipur, Mandana. Open Text Collections as a Resource for Doing NLP with Eurasian Languages. In *Proceedings of the 2nd Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) @ LREC-COLING 2024*, pages 18–23, Torino, Italia. URL: [https://aclanthology.org/2024.eurali-1.3/](https://aclanthology.org/2024.eurali-1.3/)
 * (2023) edited with Aznar, Jocelyn and Vander Klok, Jozina. *Special Issue of NUSA: Linguistic studies of languages in and around Indonesia on Applicatives in Austronesian Languages*, vol. 74, URL: [http://www.aa.tufs.ac.jp/en/publications/nusa](http://www.aa.tufs.ac.jp/en/publications/nusa)
 * (2023) The middle template and other ways of expressing coreference in Komnzo. In: Janic, K., Puddu, N., Haspelmath, M. (eds.), *Reflexive constructions in the world's languages*, 419-445. Berlin: Language Science Press. DOI: [10.5281/zenodo.7874960](https://doi.org/10.5281/zenodo.7874960)
