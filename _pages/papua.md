@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Papua/
+permalink: /papua/
 author_profile: true
 redirect_from:
   - /resume
