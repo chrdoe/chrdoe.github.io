@@ -15,7 +15,7 @@ Monographs
 Döhler, Christian. (accepted) ***Speaking the map: Komnzo texts***. Berlin: Language Science Press.
 
 
-hler, Christian. (2018) ***A grammar of Komnzo***. Berlin: Language Science Press. DOI: [10.5281/zenodo.1477799](https://doi.org/10.5281/zenodo.1477799)
+Döhler, Christian. (2018) ***A grammar of Komnzo***. Berlin: Language Science Press. DOI: [10.5281/zenodo.1477799](https://doi.org/10.5281/zenodo.1477799)
 
 Articles & chapters
 ===
