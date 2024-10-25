@@ -38,15 +38,15 @@ Articles & chapters
 Documentation material
 ===
 
-* Döhler, Christian. (2018) *A comprehensive documentation of Bine - a language of Southern New Guinea*. London: SOAS, Endangered Languages Archive. URL: [https://elar.soas.ac.uk/Collection/MPI1083775](https://elar.soas.ac.uk/Collection/MPI1083775)
-* Döhler, Christian. (2018) *Komnzo text corpus*. Zenodo. DOI: [10.5281/zenodo.1532661](http://doi.org/10.5281/zenodo.1532661)
-* Döhler, Christian. (2016) *Komnzo lexicon*. Zenodo. DOI: [10.5281/zenodo.2222424](http://doi.org/10.5281/zenodo.2222424)
-* Carroll, Mae, Barth, Wolfgang, Nicholas Evans, I Wayan Arka, Christian Döhler, Eri Kashima, Volker Gast, Tina Gregor, Kate L. Lindsey, Julia Miller, Emil Mittag, Bruno Olsson, Dineke Schokkin, Jeff Siegel, Charlotte van Tongeren, Kyla Quinn. (2016) *Yamfinder: Southern New Guinea Lexical Databse*. Available online at: [http://www.yamfinder.com](http://www.yamfinder.com)
-* Döhler, Christian. (2015) *Komnzo - a language of Southern New Guinea*. Nijmegen: DOBES, The Language Archive. URL: [https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11](https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11)
+* Döhler, Christian. (2018) ***A comprehensive documentation of Bine - a language of Southern New Guinea***. London: SOAS, Endangered Languages Archive. URL: [https://elar.soas.ac.uk/Collection/MPI1083775](https://elar.soas.ac.uk/Collection/MPI1083775)
+* Döhler, Christian. (2018) ***Komnzo text corpus***. Zenodo. DOI: [10.5281/zenodo.1532661](http://doi.org/10.5281/zenodo.1532661)
+* Döhler, Christian. (2016) ***Komnzo lexicon***. Zenodo. DOI: [10.5281/zenodo.2222424](http://doi.org/10.5281/zenodo.2222424)
+* Carroll, Mae, Barth, Wolfgang, Nicholas Evans, I Wayan Arka, Christian Döhler, Eri Kashima, Volker Gast, Tina Gregor, Kate L. Lindsey, Julia Miller, Emil Mittag, Bruno Olsson, Dineke Schokkin, Jeff Siegel, Charlotte van Tongeren, Kyla Quinn. (2016) ***Yamfinder: Southern New Guinea Lexical Databse***. Available online at: [http://www.yamfinder.com](http://www.yamfinder.com)
+* Döhler, Christian. (2015) ***Komnzo - a language of Southern New Guinea***. Nijmegen: DOBES, The Language Archive. URL: [https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11](https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11)
 
 Theses
 ===
 
-* Döhler, Christian. (2016) *A grammar of Komnzo - A language of Southern New Guinea*, Doctoral dissertation, Australian National University, Canberra. DOI: [10.25911/5d778a5c79763](https://doi.org/10.25911/5d778a5c79763)
-* Döhler, Christian. (2008) *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)*, Magisterarbeit, Technische Universität Chemnitz.
-* Döhler, Christian. (2007) *The clusivitiy flip: patterns of deponency in Northern Australian languages*, Honours thesis, University of Melbourne.
+* Döhler, Christian. (2016) ***A grammar of Komnzo - A language of Southern New Guinea***, Doctoral dissertation, Australian National University, Canberra. DOI: [10.25911/5d778a5c79763](https://doi.org/10.25911/5d778a5c79763)
+* Döhler, Christian. (2008) ***Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)***, Magisterarbeit, Technische Universität Chemnitz.
+* Döhler, Christian. (2007) ***The clusivitiy flip: patterns of deponency in Northern Australian languages***, Honours thesis, University of Melbourne.
