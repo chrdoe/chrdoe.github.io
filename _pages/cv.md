@@ -115,16 +115,23 @@ Conference organization
 Funding
 ====
 
-* 2023-2026: Deutsche Forschungsgemeinschaft (DFG), *[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)* (EUR 443,590); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur
-* 2017-2019: Endangered Languages Documentation Programme (ELDP), *[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)* (GBP 142,791)
-* 2010-2015: Volkswagen Foundation (DoBeS), *[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)* (AUD 260,000); co-applicant with Nicholas Evans and Julia Colleen Miller
-* 2013: Australian National University (ANU) *[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)*
-* 2010-2013: Australian National University (ANU), *[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)* (annual PhD stipend)
+2023-2026: Deutsche Forschungsgemeinschaft (DFG), *[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)* (EUR 443,590); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur
+
+2017-2019: Endangered Languages Documentation Programme (ELDP), *[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)* (GBP 142,791)
+
+2010-2015: Volkswagen Foundation (DoBeS), *[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)* (AUD 260,000); co-applicant with Nicholas Evans and Julia Colleen Miller
+
+2013: Australian National University (ANU) *[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)*
+
+2010-2013: Australian National University (ANU), *[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)* (annual PhD stipend)
 
 Awards
 ====
 
-* 2022: Association for Linguistic Typology (ALT), [Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award) for *A grammar of Komnzo*
-* 2020: The Digital Endangered Languages & Musics Archives Network (DELAMAN), [Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/): honourable mention for the *Bine collection* at ELAR
-* 2017: Australian National University (ANU), [Stephen Wurm Prize for Pacific Linguistics]() for *A grammar of Komnzo*
-* 2016: The Digital Endangered Languages & Musics Archives Network (DELAMAN), [Franz Boas Award](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/): honourable mention for the *Komnzo collection* at TLA
+2022: [Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award) for *A grammar of Komnzo*, Association for Linguistic Typology (ALT)
+
+2021: [Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/): honourable mention for the *Bine collection* at ELAR, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
+
+2017: [Stephen Wurm Prize for Pacific Linguistics]() for *A grammar of Komnzo*, Australian National University (ANU)
+
+2017: [Franz Boas Award](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/): honourable mention for the *Komnzo collection* at TLA, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
