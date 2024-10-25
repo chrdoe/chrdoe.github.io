@@ -18,11 +18,15 @@ Monographs
 Articles & chapters
 ===
 
-* Döhler, Christian. (forthcoming) **Multilingualism in the Papuasphere**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
-* Olsson, Bruno and Döhler, Christian. (forthcoming) **Alignment in Papuan languages**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
-* Nicholas, Evans and Mae Carroll and Christian Döhler. (forthcoming). **Historical Linguistics of the Yam family**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
-* Döhler, Christna. (forthcoming) **Bine sketch grammar**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
-* Döhler, Christna. (accepted) ***That* placeholder in Komnzo**. In: Pakendorf, B. and Rose, F. (eds.), *Fillers and Placeholders*. Berlin: Language Science Press.
+Döhler, Christian. (forthcoming) **Multilingualism in the Papuasphere**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
+
+Olsson, Bruno and Döhler, Christian. (forthcoming) **Alignment in Papuan languages**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
+
+Nicholas, Evans and Mae Carroll and Christian Döhler. (forthcoming). **Historical Linguistics of the Yam family**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
+
+Döhler, Christna. (forthcoming) **Bine sketch grammar**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
+
+Döhler, Christna. (accepted) ***That* placeholder in Komnzo**. In: Pakendorf, B. and Rose, F. (eds.), *Fillers and Placeholders*. Berlin: Language Science Press.
 * Nordhoff, Sebastian and Mandana Seyfeddinipur and Christian Döhler. (2024) **Open Text Collections as a Resource for Doing NLP with Eurasian Languages**. In *Proceedings of the 2nd Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) @ LREC-COLING 2024*, pages 18–23, Torino, Italia. URL: [https://aclanthology.org/2024.eurali-1.3/](https://aclanthology.org/2024.eurali-1.3/)
 * Aznar, Jocelyn and Jozina Vander Klok and Christian Döhler (eds). (2023) *Special Issue of NUSA: Linguistic studies of languages in and around Indonesia*: **Applicatives in Austronesian Languages**, vol. 74, URL: [http://www.aa.tufs.ac.jp/en/publications/nusa](http://www.aa.tufs.ac.jp/en/publications/nusa)
 * Döhler, Christna. (2023) **The middle template and other ways of expressing coreference in Komnzo**. In: Janic, K., Puddu, N., Haspelmath, M. (eds.), *Reflexive constructions in the world's languages*, 419-445. Berlin: Language Science Press. DOI: [10.5281/zenodo.7874960](https://doi.org/10.5281/zenodo.7874960)
