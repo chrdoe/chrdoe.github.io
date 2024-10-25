@@ -46,7 +46,7 @@ Döhler, Christian. (2022) **Feldforschung in Zeiten pandemiebedingter Reisebesc
 
 Döhler, Christian. (2021) **Birds and places: What the lexicon reveals about multilingualism**. *International Journal of Bilingualism*, vol. 25, no. 4, pp. 1142-1157. DOI: [10.1177/13670069211023158](https://doi.org/10.1177/13670069211023158)
 
-Shokkin, Dineke and Volker Gast and Nicholas Evans and Christian Döhler. **Phonetics and phonology of Idi**. *Language Documentation \& Conservation - Special Issue No.24: Phonology in Southern New Guinea*, pp. 76-107, URL: [http://hdl.handle.net/10125/24995](http://hdl.handle.net/10125/24995)
+Shokkin, Dineke and Volker Gast and Nicholas Evans and Christian Döhler. (2021) **Phonetics and phonology of Idi**. *Language Documentation \& Conservation - Special Issue No.24: Phonology in Southern New Guinea*, pp. 76-107, URL: [http://hdl.handle.net/10125/24995](http://hdl.handle.net/10125/24995)
 
 Nicholas Evans, I Wayan Arka, Matthew Carroll, Christian Döhler, Eri Kashima, Emil Mittag, Kyla Quinn, Jeff Siegel, Philip Tama, and Charlotte van Tongeren. (2017) **The languages of Southern New Guinea**. In: B. Palmer (ed.), *The Languages and Linguistics of New Guinea: A comprehensive guide*, 641--774. Berlin/Boston: De Gruyter Mouton. DOI: [10.1515/9783110295252-006](https://doi.org/10.1515/9783110295252-006}) 
 
