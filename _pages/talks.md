@@ -9,18 +9,22 @@ Upcoming
 ====
 tba
 
+Plenary
+====
+
+* Dec 2022: *Every language matters! Types of knowledge that come from individual descriptions*. 14th International Conference of the Association for Linguistic Typology, University of Austin Texas.
+* Nov 2019: *Yams zählen: Sprache, Landwirtschaft und Klimawandel in Papua-Neuguinea*. Climate week, Universität Potsdam.
+* Nov 2012: *Linguistic fieldwork in Papua New Guinea*. TU Chemnitz.
+
 Invited Talks
 ====
 
 * Nov 2023: *Feldforschung in Neuguinea*. guest lecture, Universität Regensburg.
 * Mar 2023: *Sprache als Kulturgut*. Einstein Tag, Einstein Gymnasium, Angermünde.
-* Dec 2022: *Every language matters! Types of knowledge that come from individual descriptions*. plenary lecture, 14th International Conference of the Association for Linguistic Typology, University of Austin Texas.
 * May 2021: *SCOPIC and the Komnzo corpus*. guest lecture for the seminar ''Corpus linguistics'', Humboldt Universität, Berlin.
 * Feb 2021: *Small-scale multilingualism in the Pacific*. roundtable discussion, L'Institut des langues rares, Paris.
 * Dec 2020: *Numeral systems*. guest lecture for the seminar ''Language in its environment'', Universität zu Köln.
-* Nov 2019: *Yams zählen: Sprache, Landwirtschaft und Klimawandel in Papua-Neuguinea*. climate week seminar series, Universität Potsdam.
 * Oct 2019: *The middle template in Komnzo*. guest lecture, Katholieke Universiteit, Leuven.
-* Nov 2012: *Linguistic fieldwork in Papua New Guinea*. guest lecture, TU Chemnitz.
 
 Conference presentations
 ====
