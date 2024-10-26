@@ -24,7 +24,7 @@ Work
 	* Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany
 	* I currently work on a DFG-funded intrastructure project [Open Text Collections](opentextcollections.github.io) developing a publishing platform for interlinearized text
 
-2021: Parental leave (9 months)
+2021: **Parental leave** (9 months)
 
 2020-2023: **Postdoctoral Researcher**
 	* Leibniz - Centre General Linguistics (ZAS), Germany
