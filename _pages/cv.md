@@ -58,52 +58,61 @@ Work
 	* OSCAR e.V., Chemnitz, Germany
 	* I was part of the organising team for the international arts exhibition *Transaktion 2008 -– Skulpturen des Übergangs*, which involved four artists staging public performances
 
-2007-2008: **Tutor**
+2005-2008: **Tutor** for various lectures and seminars in both the department of English Linguistics and the department of Political Theory and History of Ideas, TU Chemnitz, Germany
+
+2005-2006: **Research assistant** 
 	* Department of English Linguistics, TU Chemnitz, Germany
-	* The tutorials for the lecture *The history of the English language* were held weekly (90min). The work included the composition and grading of a final exam
-
-2007-2008: **Tutor**
-	* Department of English Linguistics, TU Chemnitz, Germany
-	* The tutorials for the lecture *Introduction to English Linguistics* were held weekly (90min). The work included the compilation of a WIKI webpage and the grading of two exams
-
-2007-2008: **Tutor**
-	* Department of Political Theory and History of Ideas, TU Chemnitz, Germany
-	* My work for the lecture *The German student's movement between 1967 and 1969* involved the selection of relevant reading material from the library, the assessment of two essays by each student, and the composition and grading of a final exam
-
-2005-2006: **Tutor**
-	* Department of Political Theory and History of Ideas, TU Chemnitz, Germany
-	* My work for the lecture *Immigrants and asylum seekers in the 20th century* involved the selection and preparation of relevant reading material and the grading of a final exam
-
-2005-2006: **Research assistant**
-	* Department of English Linguistics, TU Chemnitz, Germany
-	* I helped with the compilation of a corpus of scientific texts and their popular science counterparts. In the project *Hedging in academic English* the text corpus was scanned for hedging expressions on different linguistic levels and coded for the degree of stance
 	
+Funding
+====
+
+2023-2026: **[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, Deutsche Forschungsgemeinschaft (DFG); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur
+
+2017-2019: **[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**, Endangered Languages Documentation Programme (ELDP)
+
+2010-2015: **[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, Volkswagen Foundation (DoBeS); co-applicant with Nicholas Evans and Julia Colleen Miller
+
+2013: **[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)**, Australian National University (ANU)
+
+2010-2013: **[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)**, Australian National University (ANU)
+
+Awards
+====
+
+2022: **[Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award)** for *A grammar of Komnzo*, Association for Linguistic Typology (ALT)
+
+2021: **[Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/): honourable mention** for the *Bine collection* at ELAR, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
+
+2017: **[Stephen Wurm Prize for Pacific Linguistics](https://www.anu.edu.au/students/program-administration/prizes/stephen-wurm-graduate-prize-for-pacific-linguistic-studies)** for *A grammar of Komnzo*, Australian National University (ANU)
+
+2017: **[Franz Boas Award](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/): honourable mention** for the *Komnzo collection* at TLA, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
+
 Field research
 ====
 
-2019: Bine ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 2 months, Irukupi, Western Province, Papua New Guinea
+2019: **Bine** ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 2 months, Irukupi, Western Province, Papua New Guinea
 
-2018: Bine ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 5 months, Irukupi, Western Province, Papua New Guinea
+2018: **Bine** ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 5 months, Irukupi, Western Province, Papua New Guinea
 
-2017: Idi ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 2 months, Bimadbn/Dimsisi, Western Province, Papua New Guinea
+2017: **Idi** ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 2 months, Bimadbn/Dimsisi, Western Province, Papua New Guinea
 
-2016: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 1 month, Rouku, Western Province, Papua New Guinea
+2016: **Komnzo** ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 1 month, Rouku, Western Province, Papua New Guinea
 
-2016: Idi ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 1 month, Bimadbn/Dimsisi, Western Province, Papua New Guinea
+2016: **Idi** ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 1 month, Bimadbn/Dimsisi, Western Province, Papua New Guinea
 
-2015: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
+2015: **Komnzo** ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
 
-2013: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 3 months, Rouku, Western Province, Papua New Guinea
+2013: **Komnzo** ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 3 months, Rouku, Western Province, Papua New Guinea
 
-2012: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 3 months, Rouku, Western Province, Papua New Guinea
+2012: **Komnzo** ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 3 months, Rouku, Western Province, Papua New Guinea
 
-2012: Warta Thuntai ([gunt1241](https://glottolog.org/resource/languoid/id/gunt1241)), field methods class, Australian National University, Canberra
+2012: **Warta Thuntai** ([gunt1241](https://glottolog.org/resource/languoid/id/gunt1241)), field methods class, Australian National University, Canberra
 
-2011: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 5 months, Rouku, Western Province, Papua New Guinea
+2011: **Komnzo** ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 5 months, Rouku, Western Province, Papua New Guinea
 
-2010: Komnzo ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
+2010: **Komnzo** ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 2 months, Rouku, Western Province, Papua New Guinea
 
-2010: Tolaki ([tola1247](https://glottolog.org/resource/languoid/id/tola1247)), field methods class, Australian National University, Canberra
+2010: **Tolaki** ([tola1247](https://glottolog.org/resource/languoid/id/tola1247)), field methods class, Australian National University, Canberra
 
 Membership
 ====
@@ -147,27 +156,3 @@ Dec 2021: **[MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.c
 May 2013: **2nd Workshop on the Languages of Melanesia**, Australian National University, Canberra.
 
 Mar 2012: **1st Workshop on the Languages of Melanesia**, Australian National University, Canberra.
-
-Funding
-====
-
-2023-2026: **[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, Deutsche Forschungsgemeinschaft (DFG); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur
-
-2017-2019: **[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**, Endangered Languages Documentation Programme (ELDP)
-
-2010-2015: **[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, Volkswagen Foundation (DoBeS); co-applicant with Nicholas Evans and Julia Colleen Miller
-
-2013: **[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)**, Australian National University (ANU)
-
-2010-2013: **[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)**, Australian National University (ANU)
-
-Awards
-====
-
-2022: **[Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award)** for *A grammar of Komnzo*, Association for Linguistic Typology (ALT)
-
-2021: **[Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/): honourable mention** for the *Bine collection* at ELAR, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
-
-2017: **[Stephen Wurm Prize for Pacific Linguistics](https://www.anu.edu.au/students/program-administration/prizes/stephen-wurm-graduate-prize-for-pacific-linguistic-studies)** for *A grammar of Komnzo*, Australian National University (ANU)
-
-2017: **[Franz Boas Award](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/): honourable mention** for the *Komnzo collection* at TLA, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
