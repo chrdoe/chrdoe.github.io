@@ -90,9 +90,9 @@ Awards
 Field research
 ====
 
-2019: **Bine** ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 2 months, Irukupi, Western Province, Papua New Guinea
+2019: **Bine** ([bine1240](https://glottolog.org/resource/languoid/id/bine1240)), 2 months, Irukupi, Western Province, Papua New Guinea
 
-2018: **Bine** ([bine1240](https://glottolog.org/resource/languoid/id/bine1240), 5 months, Irukupi, Western Province, Papua New Guinea
+2018: **Bine** ([bine1240](https://glottolog.org/resource/languoid/id/bine1240)), 5 months, Irukupi, Western Province, Papua New Guinea
 
 2017: **Idi** ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 2 months, Bimadbn/Dimsisi, Western Province, Papua New Guinea
 
