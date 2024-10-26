@@ -140,7 +140,7 @@ I have reviewed articles and books for: Studies in Linguistics, NUSA, Internatio
 Conference organization
 ====
 
-Jun 2022: **[14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/)**, {Leibniz-Centre General Linguistics & Humboldt University, Berlin.
+Jun 2022: **[14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/)**, Leibniz-Centre General Linguistics & Humboldt University, Berlin.
 
 Dec 2021: **[MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.com/view/multexzas/home)**, Leibniz-Centre General Linguistics, Berlin.
 
