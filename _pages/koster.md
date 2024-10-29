@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: ""
-permalink: /koster/
+permalink: /non-menu-page/
+title: "Kosterbåt"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - "/nmp/"
+  - "/nmp.html"
 ---
 
 Kosterbåt ''Trossö'' 8m length built in 1942 in Åhus, SE.
