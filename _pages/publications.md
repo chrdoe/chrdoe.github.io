@@ -28,7 +28,7 @@ Nicholas, Evans, Mae Carroll, and Christian Döhler. (forthcoming). **Historical
 
 Döhler, Christian. (forthcoming) **Bine sketch grammar**. In: Evans, Nicholas. and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. [pdf preview](/files/OGPL_Bine_sketch_grammar-preprint.pdf)
 
-Döhler, Christian. (accepted) ***That* placeholder in Komnzo**. In: Pakendorf, B. and Rose, F. (eds.), *Fillers and Placeholders*. Berlin: Language Science Press.
+Döhler, Christian. (accepted) ***That* placeholder in Komnzo**. In: Pakendorf, B. and Rose, F. (eds.), *Fillers and Placeholders*. Berlin: Language Science Press. [pdf preview](/files/That_placeholder_Komnzo-preprint.pdf)
 
 Nordhoff, Sebastian, Mandana Seyfeddinipur, and Christian Döhler. (2024) **Open Text Collections as a Resource for Doing NLP with Eurasian Languages**. In *Proceedings of the 2nd Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) @ LREC-COLING 2024*, pages 18–23, Torino, Italia. URL: [https://aclanthology.org/2024.eurali-1.3/](https://aclanthology.org/2024.eurali-1.3/)
 
