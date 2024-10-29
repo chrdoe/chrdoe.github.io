@@ -14,3 +14,5 @@ Among the research results I wish to boast about are this [grammar of Komnzo](ht
 I am currently employed at the Berlin-Brandenburg Academy of Sciences and Humanities in Berlin, where I am a member of the DFG-funded research project [Open Text Collections](https://opentextcollections.github.io/).
 
 If I don't respond to e-mails (especially in the summer), it's probably because [I'm out at sea](https://www.instagram.com/reel/C-5esc0NTUb) in [this little Kosterbåt](https://photos.app.goo.gl/D3i9uyXg3hpkhWu2A) from 1942.
+
+link to [subsite](/koster/)
