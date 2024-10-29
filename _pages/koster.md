@@ -7,6 +7,6 @@ redirect_from:
   - "/nmp.html"
 ---
 
-* ''Trossö'' was built in 1942 at Gustav Rhyl Skeppsvarv, Århus, SE. More information [here](/files/trosso.pdf)
+''Trossö'' was built in 1942 at Rhyl Båt & Skeppsvarv, Åhus, Sweden. More information is available [here](/files/trosso.pdf) (in German).
 
 ![Pic1](../images/pic1.jpg)![Pic1](../images/pic2.jpg)![Pic1](../images/pic3.jpg)
