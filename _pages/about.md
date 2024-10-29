@@ -11,6 +11,6 @@ Welcome to my self-promotional website, where I present my work as a linguist. M
 
 Among the research results I wish to boast about are this [grammar of Komnzo](https://langsci-press.org/catalog/book/212) and this [article on vagina-words, bilingual placenames and esoterogeny](https://doi.org/10.1177/13670069211023158).
 
-I am currently employed at the Berlin-Brandenburg Academy of Sciences and Humanities in Berlin, where I am a member of the DFG-funded research project [Open Text Collections](https://opentextcollections.github.io/).
+I am currently employed at the Berlin-Brandenburg Academy of Sciences and Humanities in Berlin, where I am a member of the infrastructure project [Open Text Collections](https://opentextcollections.github.io/).
 
 If I don't respond to e-mails (especially in the summer), it's probably because I'm out at sea in [this little Kosterbåt](/non-menu-page/) from 1942.
