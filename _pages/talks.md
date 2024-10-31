@@ -7,7 +7,8 @@ author_profile: true
 
 Upcoming
 ====
-tba
+
+Sep 2025: *title to be announced* plenary at [Syntax of the World's Languages X](https://sites.google.com/view/swl-x/home), Universität Potsdam
 
 Plenary
 ====
