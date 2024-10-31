@@ -13,7 +13,7 @@ Sep 2025: *title tba*. [Syntax of the World's Languages X](https://sites.google.
 Plenary
 ====
 
-Dec 2022: *Every language matters! Types of knowledge that come from individual descriptions*. 14th International Conference of the Association for Linguistic Typology, University of Austin Texas.
+Dec 2022: *Every language matters! Types of knowledge that come from individual descriptions*. [14th International Conference of the Association for Linguistic Typology](https://sites.google.com/view/alt2022/program), University of Austin Texas.
 
 Nov 2019: *Yams zählen: Sprache, Landwirtschaft und Klimawandel in Papua-Neuguinea*. Climate week, Universität Potsdam.
 
@@ -28,7 +28,7 @@ Mar 2023: *Sprache als Kulturgut*. Einstein Tag, Einstein Gymnasium, Angermünde
 
 May 2021: *SCOPIC and the Komnzo corpus*. guest lecture for the seminar ''Corpus linguistics'', Humboldt Universität, Berlin.
 
-Feb 2021: *Small-scale multilingualism in the Pacific*. roundtable discussion, L'Institut des langues rares, Paris.
+Feb 2021: *Small-scale multilingualism in the Pacific*. roundtable discussion, L'Institut des langues rares, Paris. [youtube](https://www.youtube.com/live/mGN2jfseB5I?si=YOR5MSb2SMPesFjG)
 
 Dec 2020: *Numeral systems*. guest lecture for the seminar ''Language in its environment'', Universität zu Köln.
 
