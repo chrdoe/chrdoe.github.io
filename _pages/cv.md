@@ -103,20 +103,20 @@ Primary data collection (AKA fieldwork)
 Membership
 ====
 
-since 2021: **Societas Linguistica Europaea (SLE)**
+since 2021: [**Societas Linguistica Europaea (SLE)**](https://societaslinguistica.eu/)
 
-since 2021: **Association for Linguistic Typology (ALT)**
+since 2021: [**Association for Linguistic Typology (ALT)**](https://linguistic-typology.org/)
 
-since 2016: **Nordic Anthropological Film Association (NAFA)**
+since 2016: [**Nordic Anthropological Film Association (NAFA)**](https://nafafilm.org/?q=news)
 
-since 2015: **European Society for Oceanicists (ESfO)**
+since 2015: [**European Society for Oceanicists (ESfO)**](http://esfo-org.eu/)
 
-since 2014: **Gesellschaft für bedrohte Sprachen e.V. (GbS)**
+since 2014: [**Gesellschaft für bedrohte Sprachen e.V. (GbS)**](https://gbs.uni-koeln.de/)
 
 Service
 ====
 
-2024: Language Science Press: **Open Text Collections**, editor
+since 2024: Language Science Press: **Open Text Collections**, editor
 
 2022-2023: **ZAS workers' council** (Betriebsrat), member
 
