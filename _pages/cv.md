@@ -87,18 +87,18 @@ Awards
 
 2017: **[Franz Boas Award (honourable mention)](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/)** for the *Komnzo collection* at TLA, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
 
-Field research
+Primary data collection (AKA fieldwork)
 ====
 
-2018-2019: **Bine** ([bine1240](https://glottolog.org/resource/languoid/id/bine1240)), 9 months, Irukupi, Western Province, Papua New Guinea
+[**Bine**](https://glottolog.org/resource/languoid/id/bine1240)), 9 months between 2018-2019, Irukupi, Western Province, Papua New Guinea
 
-2016-2017: **Idi** ([idii1243](https://glottolog.org/resource/languoid/id/idii1243)), 3 months, Bimadbn/Dimsisi, Western Province, Papua New Guinea
+[**Idi**](https://glottolog.org/resource/languoid/id/idii1243)), 3 months between 2016-2017, Bimadbn/Dimsisi, Western Province, Papua New Guinea
 
-2010-2016: **Komnzo** ([komn1238](https://glottolog.org/resource/languoid/id/wara1294)), 18 months, Rouku, Western Province, Papua New Guinea
+[**Komnzo**](https://glottolog.org/resource/languoid/id/wara1294)), 18 months between 2010-2016, Rouku, Western Province, Papua New Guinea
 
-2012: **Warta Thuntai** ([gunt1241](https://glottolog.org/resource/languoid/id/gunt1241)), field methods class, Australian National University, Canberra
+[**Tolaki**](https://glottolog.org/resource/languoid/id/tola1247)), field methods class in 2010, Australian National University, Canberra
 
-2010: **Tolaki** ([tola1247](https://glottolog.org/resource/languoid/id/tola1247)), field methods class, Australian National University, Canberra
+[**Warta Thuntai**](https://glottolog.org/resource/languoid/id/gunt1241)), field methods class in 2012, Australian National University, Canberra
 
 Membership
 ====
