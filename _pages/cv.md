@@ -118,7 +118,7 @@ Service
 
 since 2024: editor-in-chief for the series [**Open Text Collections**](https://langsci-press.org/catalog/series/otc), Language Science Press
 
-2022-2023: member of the **workers' council** (Betriebsrat) at ZAS
+2022-2023: member of the **workers' council** (Betriebsrat) at [Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/)
 
 since 2021: board member of the [**Förderverein deutsche Linguistik-Olympiade e.V. (DOL)**](https://linguistikolympiade.de/)
 
