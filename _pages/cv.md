@@ -130,7 +130,7 @@ since 2015: proofreader for **Language Science Press**
 
 2013-2014: PhD student representative at the **Department of Linguistics, ANU** 
 
-I have reviewed articles and books for: Studies in Linguistics, NUSA, International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics
+I have reviewed articles, books, and applications for: Studies in Linguistics, NUSA, The endangered languages documentation project (ELDP), International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics
 
 Conference organization
 ====
