@@ -116,15 +116,15 @@ since 2014: [**Gesellschaft für bedrohte Sprachen e.V. (GbS)**](https://gbs.uni
 Service
 ====
 
-since 2024: Language Science Press, editor-in-chief for the series [**Open Text Collections**](https://langsci-press.org/catalog/series/otc)
+since 2024: editor-in-chief for the series [**Open Text Collections**](https://langsci-press.org/catalog/series/otc), Language Science Press
 
 2022-2023: member of the **workers' council** (Betriebsrat) at ZAS
 
 since 2021: board member of the [**Förderverein deutsche Linguistik-Olympiade e.V. (DOL)**](https://linguistikolympiade.de/)
 
-since 2021: Language Science Press, editorial board member for the series [**Comprehensive Grammar Library**](https://langsci-press.org/catalog/series/cogl)
+since 2021: editorial board member for the series [**Comprehensive Grammar Library**](https://langsci-press.org/catalog/series/cogl), Language Science Press
 
-2018-2021: Language Science Press, editorial board member for the series [**Studies in Diversity Linguistics**](https://langsci-press.org/catalog/series/sidl)
+2018-2021: editorial board member for the series [**Studies in Diversity Linguistics**](https://langsci-press.org/catalog/series/sidl), Language Science Press
 
 since 2015: proofreader for **Language Science Press**
 
