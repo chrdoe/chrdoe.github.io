@@ -116,19 +116,19 @@ since 2014: [**Gesellschaft für bedrohte Sprachen e.V. (GbS)**](https://gbs.uni
 Service
 ====
 
-since 2024: Language Science Press: **Open Text Collections**, editor
+since 2024: Language Science Press, editor-in-chief for the series [**Open Text Collections**](https://langsci-press.org/catalog/series/otc)
 
-2022-2023: **ZAS workers' council** (Betriebsrat), member
+2022-2023: member of the **workers' council** (Betriebsrat) at ZAS
 
-since 2021: **Förderverein deutsche Linguistik-Olympiade e.V. (DOL)**, board member
+since 2021: board member of the [**Förderverein deutsche Linguistik-Olympiade e.V. (DOL)**](https://linguistikolympiade.de/)
 
-since 2021: Language Science Press: **Comprehensive Grammar Library**, editorial board member
+since 2021: Language Science Press, editorial board member for the series [**Comprehensive Grammar Library**](https://langsci-press.org/catalog/series/cogl)
 
-2018-2021: Language Science Press: **Studies in Diversity Linguistics**, editorial board member
+2018-2021: Language Science Press, editorial board member for the series [**Studies in Diversity Linguistics**](https://langsci-press.org/catalog/series/sidl)
 
-since 2015: **Language Science Press**, proofreader
+since 2015: proofreader for **Language Science Press**
 
-2013-2014: Department of Linguistics, ANU, **PhD student representative**
+2013-2014: PhD student representative at the **Department of Linguistics, ANU** 
 
 I have reviewed articles and books for: Studies in Linguistics, NUSA, International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics
 
