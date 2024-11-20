@@ -61,7 +61,7 @@ Döhler, Christian. 2018. ***Komnzo text corpus***. Zenodo. DOI: [10.5281/zenodo
 
 Döhler, Christian. 2016. ***Komnzo lexicon***. Zenodo. DOI: [10.5281/zenodo.2222424](http://doi.org/10.5281/zenodo.2222424)
 
-Carroll, Mae, Wolgang Barth, Nicholas Evans, I Wayan Arka, Christian Döhler, Eri Kashima, Volker Gast, Tina Gregor, Kate L. Lindsey, Julia Miller, Emil Mittag, Bruno Olsson, Dineke Schokkin, Jeff Siegel, Charlotte van Tongeren, and Kyla Quinn. (2016) ***Yamfinder: Southern New Guinea Lexical Database***. Available online at: [http://www.yamfinder.com](http://www.yamfinder.com)
+Carroll, Mae, Wolgang Barth, Nicholas Evans, I Wayan Arka, Christian Döhler, Eri Kashima, Volker Gast, Tina Gregor, Kate L. Lindsey, Julia Miller, Emil Mittag, Bruno Olsson, Dineke Schokkin, Jeff Siegel, Charlotte van Tongeren, and Kyla Quinn. 2016. ***Yamfinder: Southern New Guinea Lexical Database***. Available online at: [http://www.yamfinder.com](http://www.yamfinder.com)
 
 Döhler, Christian. 2015. ***Komnzo - a language of Southern New Guinea***. Nijmegen: DOBES, The Language Archive. URL: [https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11](https://hdl.handle.net/1839/a4d3a01c-0705-4583-8fb7-2fb479fe4e11)
 
