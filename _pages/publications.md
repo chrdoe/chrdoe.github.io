@@ -12,7 +12,7 @@ redirect_from:
 Monographs
 ===
 
-Döhler, Christian. 2024. ***Speaking the map: Komnzo texts*** (Open Text Collections 1). Berlin: Language Science Press. URL: [https://langsci-press.org/catalog/book/480](https://langsci-press.org/catalog/book/480)
+Döhler, Christian. 2024. ***Speaking the map. Komnzo texts*** (Open Text Collections 1). Berlin: Language Science Press. URL: [https://langsci-press.org/catalog/book/480](https://langsci-press.org/catalog/book/480)
 
 
 Döhler, Christian. 2018. ***A grammar of Komnzo*** (Studies in Diversity Linguistics 22). Berlin: Language Science Press. DOI: [10.5281/zenodo.1477799](https://langsci-press.org/catalog/book/212)
@@ -20,15 +20,15 @@ Döhler, Christian. 2018. ***A grammar of Komnzo*** (Studies in Diversity Lingui
 Articles & chapters
 ===
 
-Döhler, Christian. (forthcoming). **Multilingualism in the Papuasphere**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. [pdf preview](/files/döhler2025_OGPL_multilingualism-preprint.pdf)
+Döhler, Christian. (forthcoming). **Multilingualism in the Papuasphere**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. [pdf preview](/files/döhler2025_OGPL_multilingualism-preprint.pdf)
 
-Olsson, Bruno and Christian Döhler. (forthcoming). **Alignment in Papuan languages**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. [pdf preview](/files/döhler2025_OGPL-alignment_preprint.pdf)
+Olsson, Bruno and Christian Döhler. (forthcoming). **Alignment in Papuan languages**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. [pdf preview](/files/döhler2025_OGPL-alignment_preprint.pdf)
 
 Nicholas, Evans, Mae Carroll, and Christian Döhler. (forthcoming). **Historical Linguistics of the Yam family**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
 
-Döhler, Christian. (forthcoming). **Bine sketch grammar**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. [pdf preview](/files/döhler2025_OGPL_Bine_sketch_grammar-preprint.pdf)
+Döhler, Christian. (forthcoming). **Bine sketch grammar**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. [pdf preview](/files/döhler2025_OGPL_Bine_sketch_grammar-preprint.pdf)
 
-Döhler, Christian. (accepted). ***That* placeholder in Komnzo**. In: Pakendorf, Brigitte and Françoise Rose (eds.), *Fillers and Placeholders*. Berlin: Language Science Press. [pdf preview](/files/döhler2025_That_placeholder_Komnzo-preprint.pdf)
+Döhler, Christian. (accepted). ***That* placeholder in Komnzo**. In: Pakendorf, Brigitte and Françoise Rose (eds.), *Fillers and Placeholders*. Berlin: Language Science Press. [pdf preview](/files/döhler2025_That_placeholder_Komnzo-preprint.pdf)
 
 Nordhoff, Sebastian, Mandana Seyfeddinipur, and Christian Döhler. 2024. **Open Text Collections as a Resource for Doing NLP with Eurasian Languages**. In *Proceedings of the 2nd Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) @ LREC-COLING 2024*, pages 18–23, Torino, Italia. URL: [https://aclanthology.org/2024.eurali-1.3/](https://aclanthology.org/2024.eurali-1.3/)
 
@@ -73,4 +73,4 @@ Döhler, Christian. 2016. ***A grammar of Komnzo - A language of Southern New Gu
 
 Döhler, Christian. 2008. ***Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)***, Magisterarbeit, Technische Universität Chemnitz. [pdf](/files/döhler2009.pdf)
 
-Döhler, Christian. 2007. ***The clusivitiy flip: patterns of deponency in Northern Australian languages***, Honours thesis, University of Melbourne. [pdf](/files/döhler2006.pdf)
+Döhler, Christian. 2007. ***The clusivity flip: patterns of deponency in Northern Australian languages***, Honours thesis, University of Melbourne. [pdf](/files/döhler2006.pdf)
