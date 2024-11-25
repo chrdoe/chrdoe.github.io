@@ -36,19 +36,19 @@ Nordhoff, Sebastian, Mandana Seyfeddinipur, and Christian Döhler. 2024. **Open 
 
 Aznar, Jocelyn, Jozina Vander Klok, and Christian Döhler (eds). 2023. *Special Issue of NUSA: Linguistic studies of languages in and around Indonesia*: **Applicatives in Austronesian Languages**, vol. 74, URL: [http://www.aa.tufs.ac.jp/en/publications/nusa/back-issue/74](http://www.aa.tufs.ac.jp/en/publications/nusa/back-issue/74)
 
-Döhler, Christian. 2023. **The middle template and other ways of expressing coreference in Komnzo**. In: Janic, K., Puddu, N., Haspelmath, M. (eds.), *Reflexive constructions in the world's languages*, 419-445. Berlin: Language Science Press. DOI: [10.5281/zenodo.7874960](https://doi.org/10.5281/zenodo.7874960)
+Döhler, Christian. 2023. **The middle template and other ways of expressing coreference in Komnzo**. In: Janic, K., Puddu, N., Haspelmath, M. (eds.), *Reflexive constructions in the world's languages*, 419–445. Berlin: Language Science Press. DOI: [10.5281/zenodo.7874960](https://doi.org/10.5281/zenodo.7874960)
 
 Döhler, Christian. 2023. **Fluidity in argument indexing in Komnzo**. *Open Linguistics*, vol. 9, no. 1, pp. 20220201. DOI: [10.1515/opli-2022-0201](https://doi.org/10.1515/opli-2022-0201)
 
 Thonicke, K., Rahner, E., Arneth, A., Bartkowski, B., Bonn, A., Döhler, C., Finger, R., Freitag, J., Grosch, R., Grossart, H.-P., Grützmacher, K., Hartman Scholz, A., Häuser, C., Hickler, T., Hölker, F., Jähnig, S. C., Jeschke, J., Kasen, R., Kastner, T., Kramer-Schadt, S., Krug, C., Lakner, S., Loft, L., Matzdorf, B., Meakins, F., De Meester, L., Monaghan, M. T., Müller, D., Overmann, J., Quaas, M., Radchuk, V., Reyer, C., Roos, C., Scholz, I., Schroer, S., Sioen, G. B., Sommer, S., Sommerwerk, N., Tockner, K., Turk, Z., Warner, B., Wätzold, F., Wende, W., Veenstra, T. und van der Voort, H. 2022. ***10 Must-Knows aus der Biodiversitätsforschung***. Potsdam, Deutschland. 60 pages. DOI: [10.5281/zenodo.6257476](https://zenodo.org/record/6257476)
 
-Döhler, Christian. 2022. **Expressions of directed caused accompanied motion in Komnzo**. In: Margetts, A., B. Hellwig, S. Riesberg (eds.), *The expression of caused accompanied motion events*, 273--300. Amsterdam/Philadelphia: John Benjamins. DOI: [10.1075/tsl.134.10doh](https://doi.org/10.1075/tsl.134.10doh)
+Döhler, Christian. 2022. **Expressions of directed caused accompanied motion in Komnzo**. In: Margetts, A., B. Hellwig, S. Riesberg (eds.), *The expression of caused accompanied motion events*, 273–300. Amsterdam/Philadelphia: John Benjamins. DOI: [10.1075/tsl.134.10doh](https://doi.org/10.1075/tsl.134.10doh)
 
-Döhler, Christian. 2022. **Feldforschung in Zeiten pandemiebedingter Reisebeschränkungen**. In: Leibniz-Zentrum Allgemeine Sprachwissenschaft (ed.). *Bericht über das Forschungsjahr 2020/2021*, 132-134. Berlin: ZAS.
+Döhler, Christian. 2022. **Feldforschung in Zeiten pandemiebedingter Reisebeschränkungen**. In: Leibniz-Zentrum Allgemeine Sprachwissenschaft (ed.). *Bericht über das Forschungsjahr 2020/2021*, 132–134. Berlin: ZAS.
 
 Döhler, Christian. 2021. **Birds and places: What the lexicon reveals about multilingualism**. *International Journal of Bilingualism*, vol. 25, no. 4, pp. 1142-1157. DOI: [10.1177/13670069211023158](https://doi.org/10.1177/13670069211023158)
 
-Shokkin, Dineke, Volker Gast, Nicholas Evans, and Christian Döhler. 2021. **Phonetics and phonology of Idi**. *Language Documentation & Conservation - Special Issue No.24: Phonology in Southern New Guinea*, pp. 76-107, URL: [http://hdl.handle.net/10125/24995](http://hdl.handle.net/10125/24995)
+Shokkin, Dineke, Volker Gast, Nicholas Evans, and Christian Döhler. 2021. **Phonetics and phonology of Idi**. *Language Documentation & Conservation - Special Issue No.24: Phonology in Southern New Guinea*, pp. 76–107, URL: [http://hdl.handle.net/10125/24995](http://hdl.handle.net/10125/24995)
 
 Evans, Nicholas, I Wayan Arka, Matthew Carroll, Christian Döhler, Eri Kashima, Emil Mittag, Kyla Quinn, Jeff Siegel, Philip Tama, and Charlotte van Tongeren. 2017. **The languages of Southern New Guinea**. In: B. Palmer (ed.), *The Languages and Linguistics of New Guinea: A comprehensive guide*, 641--774. Berlin/Boston: De Gruyter Mouton. DOI: [10.1515/9783110295252-006](https://doi.org/10.1515/9783110295252-006}) 
 
