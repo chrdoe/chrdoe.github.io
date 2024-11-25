@@ -34,7 +34,7 @@ Barth, Danielle, Nicholas Evans, Sonja Gipper, Stefan Schnell, Henrik Bergqvist,
 
 Nordhoff, Sebastian, Mandana Seyfeddinipur, and Christian Döhler. 2024. **Open Text Collections as a Resource for Doing NLP with Eurasian Languages**. In *Proceedings of the 2nd Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) @ LREC-COLING 2024*, pages 18–23, Torino, Italia. URL: [https://aclanthology.org/2024.eurali-1.3/](https://aclanthology.org/2024.eurali-1.3/)
 
-Aznar, Jocelyn, Jozina Vander Klok, and Christian Döhler (eds). 2023. *Special Issue of NUSA: Linguistic studies of languages in and around Indonesia*: **Applicatives in Austronesian Languages**, vol. 74, URL: [http://www.aa.tufs.ac.jp/en/publications/nusa](http://www.aa.tufs.ac.jp/en/publications/nusa)
+Aznar, Jocelyn, Jozina Vander Klok, and Christian Döhler (eds). 2023. *Special Issue of NUSA: Linguistic studies of languages in and around Indonesia*: **Applicatives in Austronesian Languages**, vol. 74, URL: [http://www.aa.tufs.ac.jp/en/publications/nusa/back-issue/74](http://www.aa.tufs.ac.jp/en/publications/nusa/back-issue/74)
 
 Döhler, Christian. 2023. **The middle template and other ways of expressing coreference in Komnzo**. In: Janic, K., Puddu, N., Haspelmath, M. (eds.), *Reflexive constructions in the world's languages*, 419-445. Berlin: Language Science Press. DOI: [10.5281/zenodo.7874960](https://doi.org/10.5281/zenodo.7874960)
 
