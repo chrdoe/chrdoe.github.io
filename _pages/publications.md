@@ -12,7 +12,7 @@ redirect_from:
 Monographs
 ===
 
-Döhler, Christian. 2024. ***Speaking the map. Komnzo texts*** (Open Text Collections 1). Berlin: Language Science Press. URL: [https://langsci-press.org/catalog/book/480](https://langsci-press.org/catalog/book/480)
+Döhler, Christian. 2024. ***Speaking the map. Komnzo texts*** (Open Text Collections 1). Berlin: Language Science Press. DOI: [10.5281/zenodo.14214653](https://langsci-press.org/catalog/book/480)
 
 
 Döhler, Christian. 2018. ***A grammar of Komnzo*** (Studies in Diversity Linguistics 22). Berlin: Language Science Press. DOI: [10.5281/zenodo.1477799](https://langsci-press.org/catalog/book/212)
