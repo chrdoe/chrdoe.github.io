@@ -61,7 +61,7 @@ Döhler, Christian. 2018. ***A comprehensive documentation of Bine - a language 
 
 Döhler, Christian. 2018. ***Komnzo text corpus***. Zenodo. DOI: [10.5281/zenodo.1532661](http://doi.org/10.5281/zenodo.1532661)
 
-Döhler, Christian. 2016. ***Komnzo lexicon***. Zenodo. DOI: [10.5281/zenodo.2222424](http://doi.org/10.5281/zenodo.2222424)
+Döhler, Christian. 2016. ***Komnzo lexicon***. Zenodo. DOI: [10.5281/zenodo.2222423](https://doi.org/10.5281/zenodo.2222423)
 
 Carroll, Mae, Wolgang Barth, Nicholas Evans, I Wayan Arka, Christian Döhler, Eri Kashima, Volker Gast, Tina Gregor, Kate L. Lindsey, Julia Miller, Emil Mittag, Bruno Olsson, Dineke Schokkin, Jeff Siegel, Charlotte van Tongeren, and Kyla Quinn. 2016. ***Yamfinder: Southern New Guinea Lexical Database***. Available online at: [http://www.yamfinder.com](http://www.yamfinder.com)
 
