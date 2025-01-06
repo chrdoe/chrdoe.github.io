@@ -23,24 +23,24 @@ Tutor
 
 Lecturer
 ======
-2009: [teacher] for **English for special purposes** at the Bildungs-Werkstatt Chemnitz gGmbH.
-
-2015/2016: [lecturer] for **Language Contact** at the department of General Linguistics at Christian-Albrechts-Universität zu Kiel.
-
-2015/2016: [lecturer] for **Introduction to Syntax** at the department of General Linguistics at Christian-Albrechts-Universität zu Kiel.
-
-2015/2016: [lecturer] for **Typology of Papuan languages** at the department of General Linguistics at Christian-Albrechts-Universität zu Kiel.
-
-2018: [lecturer] for **Corpus linguistics of language documentation** at the COEDL summer school at the Australian National University.
+2024: [lecturer] for **Einführung in eine nicht-indoeuropäische Sprache: Komnzo** at Universität Regensburg.
 
 2019: [lecturer] for **Verb morphology in Papuan languages** at Universität zu Köln.
 
-2024: [lecturer] for **Einführung in eine nicht-indoeuropäische Sprache: Komnzo** at Universität Regensburg.
+2018: [lecturer] for **Corpus linguistics of language documentation** at the COEDL summer school at the Australian National University.
+
+2015/2016: [lecturer] for **Typology of Papuan languages** at the department of General Linguistics at Christian-Albrechts-Universität zu Kiel.
+
+2015/2016: [lecturer] for **Introduction to Syntax** at the department of General Linguistics at Christian-Albrechts-Universität zu Kiel.
+
+2015/2016: [lecturer] for **Language Contact** at the department of General Linguistics at Christian-Albrechts-Universität zu Kiel.
+
+2009: [teacher] for **English for special purposes** at the Bildungs-Werkstatt Chemnitz gGmbH.
 
 Supervisor
 ======
 
-I am currently a supervisor/advisor on dissertation projects at Université Sorbonne Nouvelle Paris 3 and at the Australian National University.
+I am currently a supervisor/advisor on the dissertation projects at Université Sorbonne Nouvelle Paris 3 and at the Australian National University.
 
 Examiner
 ======
