@@ -11,6 +11,8 @@ I have been involved in teaching since my second semester at university. I belie
 
 Tutor
 ======
+2012: [tutor] for the seminar **Introduction to Syntax** at the department of Linguistics at the Australian National University.
+
 2005/2006: [tutor] for the lecture **Immigrants and asylum seekers in the 20th century** at the department of Political Sciences at Technische Universät Chemnitz.
 
 2007/2008: [tutor] for the lecture **The German students' movement between 67-69** at the department of Political Sciences at Technische Universät Chemnitz.
@@ -18,8 +20,6 @@ Tutor
 2007/2008: [tutor] for the lecture **History of English** at the department of English Linguistics at Technische Universät Chemnitz.
 
 2007-2009: [tutor] for the lecture **Introduction to English linguistics** at the department of English Linguistics at Technische Universät Chemnitz.
-
-2012: [tutor] for the seminar **Introduction to Syntax** at the department of Linguistics at the Australian National University.
 
 Lecturer
 ======
@@ -40,7 +40,7 @@ Lecturer
 Supervisor
 ======
 
-I am currently a supervisor/advisor on the dissertation projects at Université Sorbonne Nouvelle Paris 3 and at the Australian National University.
+I am currently a supervisor/advisor on dissertation projects at Université Sorbonne Nouvelle Paris 3 and at the Australian National University.
 
 Examiner
 ======
