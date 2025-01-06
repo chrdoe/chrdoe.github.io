@@ -13,9 +13,9 @@ Tutor
 ======
 2012: [tutor] for the seminar **Introduction to Syntax** at the department of Linguistics at the Australian National University.
 
-2005/2006: [tutor] for the lecture **Immigrants and asylum seekers in the 20th century** at the department of Political Sciences at Technische Universät Chemnitz.
+2005/2006: [tutor] for the lecture **Einwanderung und Asyl im 20. Jahrhundert** at the department of Political Sciences at Technische Universät Chemnitz.
 
-2007/2008: [tutor] for the lecture **The German students' movement between 67-69** at the department of Political Sciences at Technische Universät Chemnitz.
+2007/2008: [tutor] for the lecture **Die deutsche Studentenbewegung zwischen 1967-69** at the department of Political Sciences at Technische Universät Chemnitz.
 
 2007/2008: [tutor] for the lecture **History of English** at the department of English Linguistics at Technische Universät Chemnitz.
 
