@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -23,7 +21,7 @@ Tutor
 
 2012: [tutor] for the seminar **Introduction to Syntax** at the department of Linguistics at the Australian National University.
 
-Lecturer:
+Lecturer
 ======
 2009: [teacher] for **English for special purposes** at the Bildungs-Werkstatt Chemnitz gGmbH.
 
@@ -39,12 +37,12 @@ Lecturer:
 
 2024: [lecturer] for **Einführung in eine nicht-indoeuropäische Sprache: Komnzo** at Universität Regensburg.
 
-Supervision
+Supervisor
 ======
 
 I am currently a supervisor/advisor on the dissertation projects at Université Sorbonne Nouvelle Paris 3 and at the Australian National University.
 
-Examination
+Examiner
 ======
 
 I have been an examiner for theses written at the Australian National University and the University of Newcastle (Australia).
