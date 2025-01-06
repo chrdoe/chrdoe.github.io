@@ -147,8 +147,8 @@ ____
 
 I have examined and co-supervised theses at the following institutions: Australian National University, University of New England, Universität Regensburg, Université Sorbonne Nouvelle Paris 3, University of Newcastle (Australia).
 
-Conference organization
-====
+as conference organizer
+____
 
 Jun 2022: **[14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/)**, Leibniz-Centre General Linguistics & Humboldt University, Berlin.
 
