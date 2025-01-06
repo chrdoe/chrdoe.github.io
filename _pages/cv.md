@@ -40,7 +40,7 @@ Work
 
 2016/2017: **Researcher**  
 [Australian National University, Canberra]  
-I carried out primary data collection for Idi and Komnzo for the ARC project [*The Wellsprings of Linguistic Diversity*](https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity)
+> I carried out primary data collection for Idi and Komnzo for the ARC project [*The Wellsprings of Linguistic Diversity*](https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity)
 
 2015-2016: **Lecturer**
 * Christian-Albrechts-Universität zu Kiel, Germany
