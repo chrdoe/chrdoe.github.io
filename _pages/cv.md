@@ -120,6 +120,9 @@ since 2014: [**Gesellschaft für bedrohte Sprachen e.V. (GbS)**](https://gbs.uni
 Service
 ====
 
+as board member
+____
+
 since 2024: editor-in-chief for the series [**Open Text Collections**](https://langsci-press.org/catalog/series/otc), Language Science Press
 
 2022-2023: member of the **workers' council** (Betriebsrat) at [Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/)
@@ -134,7 +137,13 @@ since 2015: proofreader for **Language Science Press**
 
 2013-2014: PhD student representative at the **Department of Linguistics, ANU** 
 
+as reviewer
+____
+
 I have reviewed articles, books, and applications for: Studies in Linguistics, NUSA, The endangered languages documentation project (ELDP), International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics.
+
+as examiner and supervisor
+____
 
 I have examined and co-supervised theses at the following institutions: Australian National University, University of New England, Universität Regensburg, Université Sorbonne Nouvelle Paris 3, University of Newcastle (Australia).
 
