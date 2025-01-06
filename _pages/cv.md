@@ -61,11 +61,11 @@ Work
 
 Education
 ======
-2016: **Ph.D** in linguistics at the Australian National University, Canberra with the thesis: *A Grammar of Komnzo. A language of Southern New Guinea* [pdf](https://doi.org/10.25911/5d778a5c79763)
+2016: **Ph.D** in linguistics at the Australian National University, Canberra with the thesis: *A Grammar of Komnzo. A language of Southern New Guinea*. [pdf](https://doi.org/10.25911/5d778a5c79763)
 
-2009: **Magister Artium** in political science, english linguistics, and applied linguistics at the Technische Universität Chemnitz with the thesis: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)* [pdf](/files/döhler2009.pdf)
+2009: **Magister Artium** in political science, english linguistics, and applied linguistics at the Technische Universität Chemnitz with the thesis: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)*. [pdf](/files/döhler2009.pdf)
 
-2007: **Honours Degree** in linguistics at the University of Melbourne with the thesis: *The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages* [pdf](/files/döhler2006.pdf)
+2007: **Honours Degree** in linguistics at the University of Melbourne with the thesis: *The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages*. [pdf](/files/döhler2006.pdf)
 	
 Funding
 ====
