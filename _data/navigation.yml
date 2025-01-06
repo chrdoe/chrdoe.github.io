@@ -10,12 +10,12 @@ main:
 
   - title: "[ˈtɔːks]"
     url: /talks/
-
-  - title: "[ˈɹɛzəmeɪ]"
-    url: /cv/
 	
   - title: "[ˈtiːtʃɪŋ]"
 	url: /teaching/
+	
+  - title: "[ˈɹɛzəmeɪ]"
+    url: /cv/
 
   - title: "[ˈpɑpʊɑ]"
     url: /papua/
