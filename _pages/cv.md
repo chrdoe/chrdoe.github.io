@@ -38,7 +38,7 @@ Work
 * Walther de Gruyter, Berlin, Germany
 * I worked in the editorial team for the [*Encyclopedia of the Bible and Its Reception*](https://www.degruyter.com/database/ebr/html) and as a developer in the team for database management and development
 
-2016/2017: **Researcher**, Australian National University, Canberra  
+2016/2017: **Researcher**, Australian National University, Canberra
 > I carried out primary data collection for Idi and Komnzo for the ARC project [*The Wellsprings of Linguistic Diversity*](https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity)
 
 2015-2016: **Lecturer**
