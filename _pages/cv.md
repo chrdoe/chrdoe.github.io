@@ -50,24 +50,32 @@ Work
 
 Education
 ======
-2016: **Ph.D** in linguistics at the Australian National University, Canberra with the thesis: *A Grammar of Komnzo. A language of Southern New Guinea*. [pdf](https://doi.org/10.25911/5d778a5c79763)
+2016: **Ph.D** in linguistics at the Australian National University, Canberra.
+> My dissertation was a descriptive grammar: *A Grammar of Komnzo. A language of Southern New Guinea*. [pdf](https://doi.org/10.25911/5d778a5c79763)
 
-2009: **Magister Artium** in political science, english linguistics, and applied linguistics at the Technische Universität Chemnitz with the thesis: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)*. [pdf](/files/döhler2009.pdf)
+2009: **Magister Artium** in political science, English linguistics, and applied linguistics at the TU Chemnitz, Germany.
+> My thesis focused on the public discourse about migration and asylum: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz (The language of migration policy - a linguistic analysis of the debate on migration legislation)*. [pdf](/files/döhler2009.pdf)
 
-2007: **Honours Degree** in linguistics at the University of Melbourne with the thesis: *The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages*. [pdf](/files/döhler2006.pdf)
+2007: **Honours Degree** in linguistics at the University of Melbourne, Australia.
+> I analysed a particular kind of syncretism between first person inclusive and exclusive in various pro-forms of languages in spoken Northern Australia: *The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages*. [pdf](/files/döhler2006.pdf)
 	
 Funding
 ====
 
-2023-2026: **[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, Deutsche Forschungsgemeinschaft (DFG); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur
+2023-2026: **[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, Deutsche Forschungsgemeinschaft (DFG); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur.
+> We currently develop the intrastructure (workflow, conversion scripts, guidelines, platform, editorial board) for publishing texts in an interlinear glossing format.
 
-2017-2019: **[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**, Endangered Languages Documentation Programme (ELDP)
+2017-2019: **[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**, Endangered Languages Documentation Programme (ELDP).
+> The grant provided the funding for several research trips to the village of Irukupi, where Bine is spoken. Bine was at the time an under-documented language of Oriomo language family.
 
-2010-2015: **[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, Volkswagen Foundation (DoBeS); co-applicant with Nicholas Evans and Julia Colleen Miller
+2010-2015: **[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, Volkswagen Foundation (DoBeS); co-applicant with Nicholas Evans and Julia Colleen Miller.
+> The grant provided the funding for a detailed documentation of two undescribed Papuan languages from an almost completely unknown language family in Southern New Guinea, plus more basic materials on surrounding languages.
 
-2013: **[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)**, Australian National University (ANU)
+2013: **[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)**, Australian National University (ANU).
+> The grant paid for a research visit to Philadelphia and for the participation at the 3rd International Conference on Language Documentation and Conservation (ICLDC), at the University of Hawaiʻi at Mānoa.
 
-2010-2013: **[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)**, Australian National University (ANU)
+2010-2013: **[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)**, Australian National University (ANU).
+> The scholarship covered my spendings (and secured my visa) as a PhD student in Australia.
 
 Awards
 ====
