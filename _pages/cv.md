@@ -63,10 +63,10 @@ Funding
 ====
 
 2023-2026: **[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, Deutsche Forschungsgemeinschaft (DFG); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur.
-> We currently develop the intrastructure (workflow, conversion scripts, guidelines, platform, editorial board) for publishing texts in a parallel text format and in an interlinearised format.
+> We currently develop the intrastructure (workflow, conversion scripts, guidelines, platform, editorial board) for publishing texts in a parallel text format and in an interlinearised format. We publish text collections as (pdf-)books and as a digital database.
 
 2017-2019: **[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**, Endangered Languages Documentation Programme (ELDP).
-> The grant provided the funding for several research trips to the village of Irukupi, where Bine is spoken. Bine was at the time an under-documented language of Oriomo language family.
+> The grant provided the funding for several research trips to the village of Irukupi, where Bine is spoken. Bine was at the time an under-documented language of the Oriomo language family.
 
 2010-2015: **[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, Volkswagen Foundation (DoBeS); co-applicant with Nicholas Evans and Julia Colleen Miller.
 > The grant provided the funding for a detailed documentation of two undescribed Papuan languages from an almost completely unknown language family in Southern New Guinea, plus more basic materials on surrounding languages.
@@ -154,3 +154,7 @@ Dec 2021: **[MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.c
 May 2013: **2nd Workshop on the Languages of Melanesia**, Australian National University, Canberra. [together with Mae Carroll, Fanny Cottet, Nicholas Evans, and Simon Greenhill]
 
 Mar 2012: **1st Workshop on the Languages of Melanesia**, Australian National University, Canberra. [together with Mae Carroll, Fanny Cottet, Nicholas Evans, and Simon Greenhill]
+
+Failures
+====
+
