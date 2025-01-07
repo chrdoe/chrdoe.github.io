@@ -40,7 +40,7 @@ Funding
 ====
 
 |period|project|funding body|description|
-|---|---|---|---|
+|---|---|---|-----|
 |2023-2026|**[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur.|Deutsche Forschungsgemeinschaft (DFG)|We currently develop the intrastructure (workflow, conversion scripts, guidelines, platform, editorial board) for publishing texts in a parallel text format and in an interlinearised format. We publish text collections as (pdf-)books and as a digital database.|
 |2017-2019|**[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**|Endangered Languages Documentation Programme (ELDP)|The grant provided the funding for several research trips to the village of Irukupi, where Bine is spoken. Bine was at the time an under-documented language of the Oriomo language family.|
 |2010-2015|**[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, co-applicant with Nicholas Evans and Julia Colleen Miller|Volkswagen Foundation (DoBeS)|The grant provided the funding for a detailed documentation of two undescribed Papuan languages from an almost completely unknown language family in Southern New Guinea, plus more basic materials on surrounding languages.|
@@ -71,15 +71,13 @@ Primary data collection (AKA fieldwork)
 Membership
 ====
 
-since 2021: [**Societas Linguistica Europaea (SLE)**](https://societaslinguistica.eu/)
-
-since 2021: [**Association for Linguistic Typology (ALT)**](https://linguistic-typology.org/)
-
-since 2016: [**Nordic Anthropological Film Association (NAFA)**](https://nafafilm.org/?q=news)
-
-since 2015: [**European Society for Oceanicists (ESfO)**](http://esfo-org.eu/)
-
-since 2014: [**Gesellschaft für bedrohte Sprachen e.V. (GbS)**](https://gbs.uni-koeln.de/)
+|date|association|
+|---|---|
+|since 2021|[**Societas Linguistica Europaea (SLE)**](https://societaslinguistica.eu/)|
+|since 2021|[**Association for Linguistic Typology (ALT)**](https://linguistic-typology.org/)|
+|since 2016|[**Nordic Anthropological Film Association (NAFA)**](https://nafafilm.org/?q=news)|
+|since 2015|[**European Society for Oceanicists (ESfO)**](http://esfo-org.eu/)|
+|since 2014|[**Gesellschaft für bedrohte Sprachen e.V. (GbS)**](https://gbs.uni-koeln.de/)|
 
 Service
 ====
