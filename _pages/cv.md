@@ -12,7 +12,7 @@ redirect_from:
 Work
 ======
 
-2023-today: **Postdoctoral Researcher**, at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany. <font size="2">I currently work on a DFG-funded intrastructure project [Open Text Collections](opentextcollections.github.io) developing a publishing platform for interlinearized text.</font>
+2023-today: **Postdoctoral Researcher**, at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany. <font size="2">I currently work on a DFG-funded intrastructure project <a href="opentextcollections.github.io">Open Text Collections</a> developing a publishing platform for interlinearized text.</font>
 
 2021: **Parental leave** (9 months). <font size="2">By far the busiest period in this CV.</font>
 
