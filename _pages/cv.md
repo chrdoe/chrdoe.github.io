@@ -99,12 +99,14 @@ as reviewer
 ----
 
 |I have reviewed articles, books, and applications for the following publishers and agencies:|
+|---|
 |Studies in Linguistics, NUSA, The Endangered Languages Documentation Project (ELDP), the International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics|
 
 as examiner and supervisor
 ----
 
 |I have examined and co-supervised theses at the following institutions:|
+|---|
 |Australian National University, University of New England, Universität Regensburg, Université Sorbonne Nouvelle Paris 3, University of Newcastle (Australia)|
 
 as conference organizer
@@ -121,4 +123,5 @@ Failures
 ====
 
 |I have applied unsuccessfully to the following organisations for jobs, scholarships, prizes and other funding:|
+|---|
 |Australian National University, Universität Zürich, Endangered Languages Documentation Programme, University of Helsinki, Leibniz-Centre General Linguistics, Le laboratoire Dynamique Du Langage (DDL), The University of Melbourne, The University of Sydney|
