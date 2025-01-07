@@ -52,10 +52,10 @@ Awards
 
 |year|award title|institution|description|
 |---|---|---|---|
-|2022|[Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award)|Association for Linguistic Typology (ALT)|prize for the published book *A grammar of Komnzo* 2018. Berlin: Language Science Press.|
-|2021|[Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/)|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|honourable mention for the *Bine archive collection* at ELAR|
-|2017|[Stephen Wurm Prize for Pacific Linguistics](https://www.anu.edu.au/students/program-administration/prizes/stephen-wurm-graduate-prize-for-pacific-linguistic-studies)|Australian National University|prize for the thesis *A Grammar of Komnzo. A language of Southern New Guinea*|
-|2017|[Franz Boas Award](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/)|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|honourable mention for the *Komnzo archive collection* at TLA|
+|2022|[Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award)|Association for Linguistic Typology (ALT)|**prize** for the published book *A grammar of Komnzo* 2018. Berlin: Language Science Press.|
+|2021|[Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/)|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|**honourable mention** for the *Bine archive collection* at ELAR|
+|2017|[Stephen Wurm Prize for Pacific Linguistics](https://www.anu.edu.au/students/program-administration/prizes/stephen-wurm-graduate-prize-for-pacific-linguistic-studies)|Australian National University|**prize** for the thesis *A Grammar of Komnzo. A language of Southern New Guinea*|
+|2017|[Franz Boas Award](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/)|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|**honourable mention** for the *Komnzo archive collection* at TLA|
 
 Primary data collection (AKA fieldwork)
 ====
