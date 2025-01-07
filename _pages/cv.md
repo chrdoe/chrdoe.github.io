@@ -12,6 +12,8 @@ redirect_from:
 Work
 ======
 
+|period|position|institution|description|
+|---|---|---|---|
 |2023-today|**Researcher**|Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany.| I currently work on a DFG-funded intrastructure project [Open Text Collections](opentextcollections.github.io) developing a publishing platform for interlinearized text.|
 |2021|**Parental leave**|| By far the busiest 9 months in this CV.|
 |2020-2023| **Researcher**|Leibniz - Centre General Linguistics (ZAS), Germany.| I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.|
