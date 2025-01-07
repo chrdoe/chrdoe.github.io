@@ -100,7 +100,7 @@ as reviewer
 
 |I have reviewed articles, books, and applications for the following publishers and agencies:|
 |---|
-|Studies in Linguistics, NUSA, The Endangered Languages Documentation Project (ELDP), the International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics|
+|Studies in Language, Open Linguistics, NUSA, Language and Linguistics in Melanesia, The International Journal of Bilingualism, Pacific Linguistics, Language Science Press, The Endangered Languages Documentation Programme|
 
 as examiner and supervisor
 ----
