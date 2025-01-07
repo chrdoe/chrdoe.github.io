@@ -59,7 +59,7 @@ Documentation material
 
 Döhler, Christian. 2018. ***A comprehensive documentation of Bine - a language of Southern New Guinea***. London: SOAS, Endangered Languages Archive. URL: [https://elar.soas.ac.uk/Collection/MPI1083775](https://elar.soas.ac.uk/Collection/MPI1083775)
 
-Döhler, Christian. 2018. ***Komnzo text corpus***. Zenodo. DOI: [10.5281/zenodo.1532661](http://doi.org/10.5281/zenodo.1532661)
+Döhler, Christian. 2018. ***Komnzo text corpus***. Zenodo. DOI: [10.5281/zenodo.1306246](http://doi.org/10.5281/zenodo.1306246)
 
 Döhler, Christian. 2016. ***Komnzo lexicon***. Zenodo. DOI: [10.5281/zenodo.2222423](https://doi.org/10.5281/zenodo.2222423)
 
