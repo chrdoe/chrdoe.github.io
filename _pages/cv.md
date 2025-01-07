@@ -12,51 +12,40 @@ redirect_from:
 Work
 ======
 
-2023-today: **Postdoctoral Researcher**
-* at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany
+2023-today: **Postdoctoral Researcher**, at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany.
 > I currently work on a DFG-funded intrastructure project [Open Text Collections](opentextcollections.github.io) developing a publishing platform for interlinearized text.
 
-2021: **Parental leave** (9 months)
+2021: **Parental leave** (9 months).
 > By far the busiest period in this CV.
 
-2020-2023: **Postdoctoral Researcher**
-* at Leibniz - Centre General Linguistics (ZAS), Germany
+2020-2023: **Postdoctoral Researcher**, at the Leibniz - Centre General Linguistics (ZAS), Germany.
 > I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.
 
-2017-2019: **Postdoctoral Researcher**
-* at Universität zu Köln, Germany
+2017-2019: **Postdoctoral Researcher**, at Universität zu Köln, Germany.
 > I worked on the [ELDP](https://www.eldp.net/) funded project [*A comprehensive documentation of Bine - a language of Southern New Guinea*](https://www.elararchive.org/dk0471).
 
-2016-2017: **Editor, developer**
-* at Walther de Gruyter, Berlin, Germany
+2016-2017: **Editor, developer**, at Walther de Gruyter, Germany.
 > I worked in the editorial team for the [*Encyclopedia of the Bible and Its Reception*](https://www.degruyter.com/database/ebr/html) and as a developer in the team for database management and development.
 
-2016/2017: **Researcher**
-* at the Australian National University, Canberra
+2016/2017: **Researcher**, at the Australian National University, Canberra.
 > I carried out primary data collection for Idi and Komnzo for the ARC project [*The Wellsprings of Linguistic Diversity*](https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity).
 
-2015-2016: **Lecturer**
-* at Christian-Albrechts-Universität zu Kiel, Germany
+2015-2016: **Lecturer**, at Christian-Albrechts-Universität zu Kiel, Germany.
 > I was teaching classes in Syntax (BA), Language contact (BA/MA), and Papuan languages (MA).
 
-2010-2015: **Researcher**
-* at the Australian National University, Canberra
+2010-2015: **Researcher**, at the Australian National University, Canberra.
 > I carried out primary data collection and archiving for the DOBES project (Volkswagen Foundation) [*Nen and Komnzo - two languages of Southern New Guinea*](https://dobes.mpi.nl/projects/morehead/).
 
-2009: **Teacher**
-* at Bildungswerkstatt Chemnitz gGmbH, Germany
+2009: **Teacher**, at Bildungswerkstatt Chemnitz gGmbH, Germany.
 > I taught English for special purposes (ESP) to students of mechatronics from Chemnitz during their exchange at [Ammattiopisto Lappia](https://www.lappia.fi/) in Kemi, Finland.
 
-2008: **Intern**
-* at OSCAR e.V., Chemnitz, Germany
+2008: **Intern**, at OSCAR e.V., Chemnitz, Germany.
 > I was part of the organising team for the international arts exhibition *Transaktion 2008 -– Skulpturen des Übergangs*, which involved four artists staging public performances.
 
-2005-2008: **Tutor**
-* at the Department of English Linguistics & Department of Political Theory and History of Ideas, TU Chemnitz, Germany
+2005-2008: **Tutor**, at the Department of English Linguistics & Department of Political Theory and History of Ideas, TU Chemnitz, Germany.
 > I was a tutor and teaching assistant for various lectures and seminars.
 
-2005-2006: **Research assistant**
-* at the Department of English Linguistics, TU Chemnitz, Germany
+2005-2006: **Research assistant**, at the Department of English Linguistics, TU Chemnitz, Germany.
 > I was employed in the project ``Hedging in academic English''.
 
 Education
@@ -140,7 +129,7 @@ since 2015: proofreader for **Language Science Press**
 as reviewer
 ----
 
-I have reviewed articles, books, and applications for: Studies in Linguistics, NUSA, The endangered languages documentation project (ELDP), International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics.
+I have reviewed articles, books, and applications for: Studies in Linguistics, NUSA, The Endangered Languages Documentation Project (ELDP), the International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics.
 
 as examiner and supervisor
 ----
@@ -150,10 +139,10 @@ I have examined and co-supervised theses at the following institutions: Australi
 as conference organizer
 ----
 
-Jun 2022: **[14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/)**, Leibniz-Centre General Linguistics & Humboldt University, Berlin.
+Jun 2022: **[14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/)**, Leibniz-Centre General Linguistics & Humboldt University, Berlin. [together with Jocelyn Aznar, Yining Nie, Jozina Vander Klok, and Tonjes Veenstra]
 
-Dec 2021: **[MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.com/view/multexzas/home)**, Leibniz-Centre General Linguistics, Berlin.
+Dec 2021: **[MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.com/view/multexzas/home)**, Leibniz-Centre General Linguistics, Berlin. [together with Kenyon Branan, Thomas McFadden, André Meinunger, Zorica Puškar-Gallien, Nicholas Rolle, Frank Seifart, Alexander Turtureanu, Tonjes Veenstra, and Karolina Zuchewicz]
 
-May 2013: **2nd Workshop on the Languages of Melanesia**, Australian National University, Canberra.
+May 2013: **2nd Workshop on the Languages of Melanesia**, Australian National University, Canberra. [together with Mae Carroll, Fanny Cottet, Nicholas Evans, and Simon Greenhill]
 
-Mar 2012: **1st Workshop on the Languages of Melanesia**, Australian National University, Canberra.
+Mar 2012: **1st Workshop on the Languages of Melanesia**, Australian National University, Canberra. [together with Mae Carroll, Fanny Cottet, Nicholas Evans, and Simon Greenhill]

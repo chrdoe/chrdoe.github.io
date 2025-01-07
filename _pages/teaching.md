@@ -9,18 +9,6 @@ author_profile: true
 
 I have been involved in teaching since my second semester at university. I believe that good teaching is a joint effort that relies on active participation and a respectful dialogue.
 
-Tutor
-======
-2012: [tutor] for the seminar **Introduction to Syntax** at the department of Linguistics at the Australian National University.
-
-2005/2006: [tutor] for the lecture **Einwanderung und Asyl im 20. Jahrhundert** at the department of Political Sciences at Technische Universät Chemnitz.
-
-2007/2008: [tutor] for the lecture **Die deutsche Studentenbewegung zwischen 1967-69** at the department of Political Sciences at Technische Universät Chemnitz.
-
-2007/2008: [tutor] for the lecture **History of English** at the department of English Linguistics at Technische Universät Chemnitz.
-
-2007-2009: [tutor] for the lecture **Introduction to English linguistics** at the department of English Linguistics at Technische Universät Chemnitz.
-
 Lecturer
 ======
 2024: [lecturer] for **Einführung in eine nicht-indoeuropäische Sprache: Komnzo** at Universität Regensburg.
@@ -36,6 +24,18 @@ Lecturer
 2015/2016: [lecturer] for **Language Contact** at the department of General Linguistics at Christian-Albrechts-Universität zu Kiel.
 
 2009: [teacher] for **English for special purposes** at the Bildungs-Werkstatt Chemnitz gGmbH.
+
+Tutor
+======
+2012: [tutor] for the seminar **Introduction to Syntax** at the department of Linguistics at the Australian National University.
+
+2005/2006: [tutor] for the lecture **Einwanderung und Asyl im 20. Jahrhundert** at the department of Political Sciences at Technische Universät Chemnitz.
+
+2007/2008: [tutor] for the lecture **Die deutsche Studentenbewegung zwischen 1967-69** at the department of Political Sciences at Technische Universät Chemnitz.
+
+2007/2008: [tutor] for the lecture **History of English** at the department of English Linguistics at Technische Universät Chemnitz.
+
+2007-2009: [tutor] for the lecture **Introduction to English linguistics** at the department of English Linguistics at Technische Universät Chemnitz.
 
 Supervisor
 ======
