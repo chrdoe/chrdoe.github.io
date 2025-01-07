@@ -109,7 +109,7 @@ as examiner and supervisor
 |---|
 |Australian National University, University of New England, Universität Regensburg, Université Sorbonne Nouvelle Paris 3, University of Newcastle (Australia)|
 
-as conference organizer
+as conference organiser
 ----
 
 |date|conference|institution|comment|
