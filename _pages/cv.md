@@ -12,13 +12,13 @@ redirect_from:
 Work
 ======
 
-2023-today: **Postdoctoral Researcher**, at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany. <font size="2">I currently work on a DFG-funded intrastructure project <a href="opentextcollections.github.io">Open Text Collections</a> developing a publishing platform for interlinearized text.</font>
+2023-today: **Editor, researcher**, at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany. <font size="2">I currently work on a DFG-funded intrastructure project <a href="opentextcollections.github.io">Open Text Collections</a> developing a publishing platform for interlinearized text.</font>
 
 2021: **Parental leave** (9 months). <font size="2">By far the busiest period in this CV.</font>
 
-2020-2023: **Postdoctoral Researcher**, at the Leibniz - Centre General Linguistics (ZAS), Germany. <font size="2">I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.</font>
+2020-2023: **Researcher**, at the Leibniz - Centre General Linguistics (ZAS), Germany. <font size="2">I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.</font>
 
-2017-2019: **Postdoctoral Researcher**, at Universität zu Köln, Germany. <font size="2">I worked on the [ELDP](https://www.eldp.net/) funded project [*A comprehensive documentation of Bine - a language of Southern New Guinea*](https://www.elararchive.org/dk0471).</font>
+2017-2019: **Researcher**, at Universität zu Köln, Germany. <font size="2">I worked on the [ELDP](https://www.eldp.net/) funded project [*A comprehensive documentation of Bine - a language of Southern New Guinea*](https://www.elararchive.org/dk0471).</font>
 
 2016-2017: **Editor, developer**, at Walther de Gruyter, Germany. <font size="2">I worked in the editorial team for the [*Encyclopedia of the Bible and Its Reception*](https://www.degruyter.com/database/ebr/html) and as a developer in the team for database management and development.</font>
 
