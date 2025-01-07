@@ -28,9 +28,9 @@ Work
 Education
 ======
 
-|2016|**Ph.D** in linguistics|Australian National University|My dissertation was a full reference grammar of a hitherto undescribed Papuan language. The thesis title is: *A Grammar of Komnzo. A language of Southern New Guinea*. [pdf](https://doi.org/10.25911/5d778a5c79763)|
-|2009|**Magister Artium** in political science, English linguistics, and applied linguistics|Technical University Chemnitz|My thesis focused on German public discourse about migration and asylum between 2000-2005. The title of the thesis is: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz* (The language of migration policy - a linguistic analysis of the debate on migration legislation). [pdf](/files/döhler2009.pdf)|
-|2007|**Honours Degree** in linguistics|University of Melbourne|I analysed a particular kind of syncretism between first person inclusive and exclusive in various pro-forms of languages in spoken Northern Australia. The thesis title is: *The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages*. [pdf](/files/döhler2006.pdf)|
+|2016|**Ph.D** in linguistics|Australian National University|My dissertation was a full reference grammar of a hitherto undescribed Papuan language. The thesis is entitled: *A Grammar of Komnzo. A language of Southern New Guinea*. [pdf](https://doi.org/10.25911/5d778a5c79763)|
+|2009|**Magister Artium** in political science, English linguistics, and applied linguistics|Technical University Chemnitz|My thesis focused on German public discourse about migration and asylum between 2000-2005. The thesis is entitled: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz* (The language of migration policy - a linguistic analysis of the debate on migration legislation). [pdf](/files/döhler2009.pdf)|
+|2007|**Honours Degree** in linguistics|University of Melbourne|I analysed a particular kind of syncretism between first person inclusive and exclusive in various pro-forms of languages in spoken Northern Australia. The thesis is entitled: *The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages*. [pdf](/files/döhler2006.pdf)|
 	
 Funding
 ====
