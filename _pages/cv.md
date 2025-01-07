@@ -30,7 +30,7 @@ Work
 Education
 ======
 
-|date|title|institution|description|
+|year|title|institution|description|
 |---|---|---|------|
 |2016|**Ph.D** in linguistics|Australian National University|My dissertation was a full reference grammar of a hitherto undescribed Papuan language. The thesis is entitled: *A Grammar of Komnzo. A language of Southern New Guinea*. [pdf](https://doi.org/10.25911/5d778a5c79763)|
 |2009|**Magister Artium** in political science, English linguistics, and applied linguistics|Technical University Chemnitz|My thesis focused on German public discourse about migration and asylum between 2000-2005. The thesis is entitled: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz* (The language of migration policy - a linguistic analysis of the debate on migration legislation). [pdf](/files/döhler2009.pdf)|
@@ -50,7 +50,7 @@ Funding
 Awards
 ====
 
-|period|award title|institution|description|
+|year|award title|institution|description|
 |---|---|---|---|
 |2022|[Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award)|Association for Linguistic Typology (ALT)|prize for the published book *A grammar of Komnzo* 2018. Berlin: Language Science Press.|
 |2021|[Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/)|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|honourable mention for the *Bine archive collection* at ELAR|
@@ -71,7 +71,7 @@ Primary data collection (AKA fieldwork)
 Membership
 ====
 
-|date|association|
+|period|association|
 |---|---|
 |since 2021|[Societas Linguistica Europaea (SLE)](https://societaslinguistica.eu/)|
 |since 2021|[Association for Linguistic Typology (ALT)](https://linguistic-typology.org/)|
@@ -85,7 +85,7 @@ Service
 as board member
 ----
 
-|date|institution|description|
+|period|institution|description|
 |---|---|-----|
 |since 2024|Language Science Press|editor-in-chief for the series [Open Text Collections](https://langsci-press.org/catalog/series/otc)| 
 |2022-2023|[Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/)|member of the workers' council (Betriebsrat)|
