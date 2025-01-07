@@ -18,17 +18,17 @@ Work
 
 2020-2023: **Researcher**, at the Leibniz - Centre General Linguistics (ZAS), Germany. <font size="2">I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.</font>
 
-2017-2019: **Researcher**, at Universität zu Köln, Germany. <font size="2">I worked on the [ELDP](https://www.eldp.net/) funded project [*A comprehensive documentation of Bine - a language of Southern New Guinea*](https://www.elararchive.org/dk0471).</font>
+2017-2019: **Researcher**, at Universität zu Köln, Germany. <font size="2">I worked on the project <a href="https://www.elararchive.org/dk0471">A comprehensive documentation of Bine - a language of Southern New Guinea<\a>.</font>
 
-2016-2017: **Editor, developer**, at Walther de Gruyter, Germany. <font size="2">I worked in the editorial team for the [*Encyclopedia of the Bible and Its Reception*](https://www.degruyter.com/database/ebr/html) and as a developer in the team for database management and development.</font>
+2016-2017: **Editor, developer**, at Walther de Gruyter, Germany. <font size="2">I worked in the editorial team for the <a href="https://www.degruyter.com/database/ebr/html">Encyclopedia of the Bible and Its Reception</a> and as a developer in the team for database management and development.</font>
 
-2016/2017: **Researcher**, at the Australian National University, Canberra. <font size="2">I carried out primary data collection for Idi and Komnzo for the ARC project [*The Wellsprings of Linguistic Diversity*](https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity).</font>
+2016/2017: **Researcher**, at the Australian National University, Canberra. <font size="2">I carried out primary data collection for Idi and Komnzo for the ARC project <a href="https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity">The Wellsprings of Linguistic Diversity</a>.</font>
 
 2015-2016: **Lecturer**, at Christian-Albrechts-Universität zu Kiel, Germany. <font size="2">I was teaching classes in Syntax (BA), Language contact (BA/MA), and Papuan languages (MA).</font>
 
-2010-2015: **Researcher**, at the Australian National University, Canberra. <font size="2">I carried out primary data collection and archiving for the DOBES project (Volkswagen Foundation) [*Nen and Komnzo - two languages of Southern New Guinea*](https://dobes.mpi.nl/projects/morehead/).</font>
+2010-2015: **Researcher**, at the Australian National University, Canberra. <font size="2">I carried out primary data collection and archiving for the DOBES project (Volkswagen Foundation) <a href="https://dobes.mpi.nl/projects/morehead/">Nen and Komnzo - two languages of Southern New Guinea</a>.</font>
 
-2009: **Teacher**, at Bildungswerkstatt Chemnitz gGmbH, Germany. <font size="2">I taught English for special purposes (ESP) to students of mechatronics from Chemnitz during their exchange at [Ammattiopisto Lappia](https://www.lappia.fi/) in Kemi, Finland.</font>
+2009: **Teacher**, at Bildungswerkstatt Chemnitz gGmbH, Germany. <font size="2">I taught English for special purposes (ESP) to students of mechatronics from Chemnitz during their exchange at <a href="https://www.lappia.fi/">Ammattiopisto Lappia</a> in Kemi, Finland.</font>
 
 2008: **Intern**, at OSCAR e.V., Chemnitz, Germany. <font size="2">I was part of the organising team for the international arts exhibition *Transaktion 2008 -– Skulpturen des Übergangs*, which involved four artists staging public performances.</font>
 
@@ -38,11 +38,11 @@ Work
 
 Education
 ======
-2016: **Ph.D** in linguistics at the Australian National University, Canberra. <font size="2">My dissertation was a full reference grammar of a hitherto undescribed Papuan language. The thesis title is: ''A Grammar of Komnzo. A language of Southern New Guinea''. [pdf](https://doi.org/10.25911/5d778a5c79763)</font>
+2016: **Ph.D** in linguistics at the Australian National University, Canberra. <font size="2">My dissertation was a full reference grammar of a hitherto undescribed Papuan language. The thesis title is: ''A Grammar of Komnzo. A language of Southern New Guinea''. <a href="https://doi.org/10.25911/5d778a5c79763">pdf</a></font>
 
-2009: **Magister Artium** in political science, English linguistics, and applied linguistics at the TU Chemnitz, Germany. <font size="2">My thesis focused on German public discourse about migration and asylum between 2000-2005. The title of the thesis is: ''Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz'' (The language of migration policy - a linguistic analysis of the debate on migration legislation). [pdf](/files/döhler2009.pdf)</font>
+2009: **Magister Artium** in political science, English linguistics, and applied linguistics at the TU Chemnitz, Germany. <font size="2">My thesis focused on German public discourse about migration and asylum between 2000-2005. The title of the thesis is: ''Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz'' (The language of migration policy - a linguistic analysis of the debate on migration legislation). <a href="https://chrdoe.github.io/files/do%CC%88hler2009.pdf">pdf</a></font>
 
-2007: **Honours Degree** in linguistics at the University of Melbourne, Australia. <font size="2">I analysed a particular kind of syncretism between first person inclusive and exclusive in various pro-forms of languages in spoken Northern Australia. The thesis title is: ''The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages''. [pdf](/files/döhler2006.pdf)</font>
+2007: **Honours Degree** in linguistics at the University of Melbourne, Australia. <font size="2">I analysed a particular kind of syncretism between first person inclusive and exclusive in various pro-forms of languages in spoken Northern Australia. The thesis title is: ''The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages''. <a href="https://chrdoe.github.io/files/do%CC%88hler2006.pdf">pdf</a></font>
 	
 Funding
 ====
