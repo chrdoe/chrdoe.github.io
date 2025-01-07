@@ -85,41 +85,40 @@ Service
 as board member
 ----
 
-since 2024: editor-in-chief for the series [**Open Text Collections**](https://langsci-press.org/catalog/series/otc), Language Science Press
-
-2022-2023: member of the **workers' council** (Betriebsrat) at [Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/)
-
-since 2021: board member of the [**Förderverein deutsche Linguistik-Olympiade e.V. (DOL)**](https://linguistikolympiade.de/)
-
-since 2021: editorial board member for the series [**Comprehensive Grammar Library**](https://langsci-press.org/catalog/series/cogl), Language Science Press
-
-2018-2021: editorial board member for the series [**Studies in Diversity Linguistics**](https://langsci-press.org/catalog/series/sidl), Language Science Press
-
-since 2015: proofreader for **Language Science Press**
-
-2013-2014: PhD student representative at the **Department of Linguistics, ANU** 
+|date|institution|description|
+|---|---|-----|
+|since 2024|Language Science Press|editor-in-chief for the series [**Open Text Collections**](https://langsci-press.org/catalog/series/otc)| 
+|2022-2023|[Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/)|member of the **workers' council** (Betriebsrat)|
+|since 2021|[**Förderverein deutsche Linguistik-Olympiade e.V. (DOL)**](https://linguistikolympiade.de/)|board member| 
+|since 2021|Language Science Press|editorial board member for the series [**Comprehensive Grammar Library**](https://langsci-press.org/catalog/series/cogl)|
+|2018-2021|Language Science Press|editorial board member for the series [**Studies in Diversity Linguistics**](https://langsci-press.org/catalog/series/sidl)|
+|since 2015|Language Science Press|proofreader|
+|2013-2014|Department of Linguistics, Australian National University|PhD student representative| 
 
 as reviewer
 ----
 
-I have reviewed articles, books, and applications for: Studies in Linguistics, NUSA, The Endangered Languages Documentation Project (ELDP), the International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics.
+|I have reviewed articles, books, and applications for the following publishers and agencies:|
+|Studies in Linguistics, NUSA, The Endangered Languages Documentation Project (ELDP), the International Journal of Bilingualism, Pacific Linguistics - deGruyter, Language Science Press, Open Linguistics|
 
 as examiner and supervisor
 ----
 
-I have examined and co-supervised theses at the following institutions: Australian National University, University of New England, Universität Regensburg, Université Sorbonne Nouvelle Paris 3, University of Newcastle (Australia).
+|I have examined and co-supervised theses at the following institutions:|
+|Australian National University, University of New England, Universität Regensburg, Université Sorbonne Nouvelle Paris 3, University of Newcastle (Australia)|
 
 as conference organizer
 ----
 
-Jun 2022: **[14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/)**, Leibniz-Centre General Linguistics & Humboldt University, Berlin. [together with Jocelyn Aznar, Yining Nie, Jozina Vander Klok, and Tonjes Veenstra]
-
-Dec 2021: **[MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.com/view/multexzas/home)**, Leibniz-Centre General Linguistics, Berlin. [together with Kenyon Branan, Thomas McFadden, André Meinunger, Zorica Puškar-Gallien, Nicholas Rolle, Frank Seifart, Alexander Turtureanu, Tonjes Veenstra, and Karolina Zuchewicz]
-
-May 2013: **2nd Workshop on the Languages of Melanesia**, Australian National University, Canberra. [together with Mae Carroll, Fanny Cottet, Nicholas Evans, and Simon Greenhill]
-
-Mar 2012: **1st Workshop on the Languages of Melanesia**, Australian National University, Canberra. [together with Mae Carroll, Fanny Cottet, Nicholas Evans, and Simon Greenhill]
+|date|conference|institution|comment|
+|---|---|---|-----|
+|Jun 2022|**[14th Austronesian & Papuan Languages and Linguistics Conference](https://sites.google.com/view/apll14-conference/)**|Leibniz-Centre General Linguistics & Humboldt University, Berlin|together with Jocelyn Aznar, Yining Nie, Jozina Vander Klok, and Tonjes Veenstra|
+|Dec 2021|**[MultEx@ZAS - Workshop on Multiple Exponence](https://sites.google.com/view/multexzas/home)**|Leibniz-Centre General Linguistics (ZAS)|together with Kenyon Branan, Thomas McFadden, André Meinunger, Zorica Puškar-Gallien, Nicholas Rolle, Frank Seifart, Alexander Turtureanu, Tonjes Veenstra, and Karolina Zuchewicz|
+|May 2013|**2nd Workshop on the Languages of Melanesia**|Australian National University|together with Mae Carroll, Fanny Cottet, Nicholas Evans, and Simon Greenhill|
+|Mar 2012|**1st Workshop on the Languages of Melanesia**|Australian National University|together with Mae Carroll, Fanny Cottet, and Nicholas Evans|
 
 Failures
 ====
 
+|I have applied unsuccessfully to the following organisations for jobs, scholarships, prizes and other funding:|
+|Australian National University, Universität Zürich, Endangered Languages Documentation Programme, University of Helsinki, Leibniz-Centre General Linguistics, Le laboratoire Dynamique Du Langage (DDL), The University of Melbourne, The University of Sydney|
