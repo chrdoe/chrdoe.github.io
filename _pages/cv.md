@@ -81,7 +81,6 @@ Membership
 
 Service
 ====
-
 as board member
 ----
 
@@ -94,21 +93,18 @@ as board member
 |2018-2021|Language Science Press|editorial board member for the series [Studies in Diversity Linguistics](https://langsci-press.org/catalog/series/sidl)|
 |since 2015|Language Science Press|proofreader|
 |2013-2014|Department of Linguistics, Australian National University|PhD student representative| 
-
 as reviewer
 ----
 
 |I have reviewed articles, books, and applications for the following publishers and agencies:|
 |---|
 |Studies in Language, Open Linguistics, NUSA, Language and Linguistics in Melanesia, The International Journal of Bilingualism, Pacific Linguistics, Language Science Press, The Endangered Languages Documentation Programme|
-
 as examiner and supervisor
 ----
 
 |I have examined and co-supervised theses at the following institutions:|
 |---|
 |Australian National University, University of New England, Universität Regensburg, Université Sorbonne Nouvelle Paris 3, University of Newcastle (Australia)|
-
 as conference organizer
 ----
 
