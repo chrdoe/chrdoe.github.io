@@ -18,7 +18,7 @@ Work
 
 2020-2023: **Researcher** at the Leibniz - Centre General Linguistics (ZAS), Germany. <font size="2">I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.</font>
 
-2017-2019: **Researcher** at the Universität zu Köln, Germany. <font size="2">I worked on the project <a href="https://www.elararchive.org/dk0471"><i>A comprehensive documentation of Bine - a language of Southern New Guinea</i><\a>.</font>
+2017-2019: **Researcher** at the Universität zu Köln, Germany. <font size="2">I worked on the project <a href="https://www.elararchive.org/dk0471"><i>A comprehensive documentation of Bine - a language of Southern New Guinea</i></a>.</font>
 
 2016-2017: **Editor, developer** at Walther de Gruyter, Germany. <font size="2">I worked in the editorial team for the <a href="https://www.degruyter.com/database/ebr/html"><i>Encyclopedia of the Bible and Its Reception</i></a> and as a developer in the team for database management and development.</font>
 
