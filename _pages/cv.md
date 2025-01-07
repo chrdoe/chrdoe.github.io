@@ -15,45 +15,29 @@ Work
 |2023-today|**Researcher** at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany.| I currently work on a DFG-funded intrastructure project [Open Text Collections](opentextcollections.github.io) developing a publishing platform for interlinearized text.|
 |2021|**Parental leave** (9 months).| By far the busiest period in this CV.|
 |2020-2023| **Researcher** at the Leibniz - Centre General Linguistics (ZAS), Germany.| I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.|
-
-2017-2019: **Researcher** at the Universität zu Köln, Germany. <font size="2">I worked on the project <a href="https://www.elararchive.org/dk0471"><i>A comprehensive documentation of Bine - a language of Southern New Guinea</i></a>.</font>
-
-2016-2017: **Editor, developer** at Walther de Gruyter, Germany. <font size="2">I worked in the editorial team for the <a href="https://www.degruyter.com/database/ebr/html"><i>Encyclopedia of the Bible and Its Reception</i></a> and as a developer in the team for database management and development.</font>
-
-2016/2017: **Researcher** at the Australian National University, Canberra. <font size="2">I carried out primary data collection for Idi and Komnzo for the ARC project <a href="https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity"><i>The Wellsprings of Linguistic Diversity</i></a>.</font>
-
-2015-2016: **Lecturer** at Christian-Albrechts-Universität zu Kiel, Germany. <font size="2">I was teaching classes in Syntax (BA), Language contact (BA/MA), and Papuan languages (MA).</font>
-
-2010-2015: **Researcher** at the Australian National University, Canberra. <font size="2">I carried out primary data collection and archiving for the DOBES project (Volkswagen Foundation) <a href="https://dobes.mpi.nl/projects/morehead/"><i>Nen and Komnzo - two languages of Southern New Guinea</i></a>.</font>
-
-2009: **Teacher**, at Bildungswerkstatt Chemnitz gGmbH, Germany. <font size="2">I taught English for special purposes (ESP) to students of mechatronics from Chemnitz during their exchange at <a href="https://www.lappia.fi/"><i>Ammattiopisto Lappia</i></a> in Kemi, Finland.</font>
-
-2008: **Intern**, at OSCAR e.V., Chemnitz, Germany. <font size="2">I was part of the organising team for the international arts exhibition <i>Transaktion 2008 - Skulpturen des Übergangs</i>, which involved four artists staging public performances.</font>
-
-2005-2008: **Tutor**, at the Department of English Linguistics & Department of Political Theory and History of Ideas, TU Chemnitz, Germany. <font size="2">I was a tutor and teaching assistant for various lectures and seminars.</font>
-
-2005-2006: **Research assistant**, at the Department of English Linguistics, TU Chemnitz, Germany. <font size="2">I was employed in the project <i>Hedging in academic English</i>.</font>
+|2017-2019|**Researcher** at the Universität zu Köln, Germany.|I worked on the project [A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471).|
+|2016-2017|**Editor, developer** at Walther de Gruyter, Germany.|I worked in the editorial team for the [Encyclopedia of the Bible and Its Reception](https://www.degruyter.com/database/ebr/html) and as a developer in the team for database management and development.|
+|2016/2017|**Researcher** at the Australian National University, Canberra.|I carried out primary data collection for Idi and Komnzo for the ARC project [The Wellsprings of Linguistic Diversity](https://researchportalplus.anu.edu.au/en/projects/the-wellsprings-of-linguistics-diversity).|
+|2015-2016|**Lecturer** at Christian-Albrechts-Universität zu Kiel, Germany.|I was teaching classes in Syntax (BA), Language contact (BA/MA), and Papuan languages (MA).|
+|2010-2015|**Researcher** at the Australian National University, Canberra.|I carried out primary data collection and archiving for the DOBES project (Volkswagen Foundation) [Nen and Komnzo - two languages of Southern New Guinea](https://dobes.mpi.nl/projects/morehead/).|
+|2009|**Teacher** at Bildungswerkstatt Chemnitz gGmbH, Germany.|I taught English for special purposes (ESP) to students of mechatronics from Chemnitz during their exchange at [Ammattiopisto Lappia](https://www.lappia.fi/) in Kemi, Finland.|
+|2008|**Intern** at OSCAR e.V., Chemnitz, Germany.|I was part of the organising team for the international arts exhibition *Transaktion 2008 - Skulpturen des Übergangs*, which involved four artists staging public performances.|
+|2005-2008|**Tutor** at the Department of English Linguistics & Department of Political Theory and History of Ideas, TU Chemnitz, Germany.|I was a tutor and teaching assistant for various lectures and seminars.|
+|2005-2006|**Research assistant** at the Department of English Linguistics, TU Chemnitz, Germany.|I was employed in the project *Hedging in academic English*.|
 
 Education
 ======
-2016: **Ph.D** in linguistics at the Australian National University, Canberra. <font size="2">My dissertation was a full reference grammar of a hitherto undescribed Papuan language. The thesis title is: <i>A Grammar of Komnzo. A language of Southern New Guinea</i>. <a href="https://doi.org/10.25911/5d778a5c79763">pdf</a></font>
-
-2009: **Magister Artium** in political science, English linguistics, and applied linguistics at the TU Chemnitz, Germany. <font size="2">My thesis focused on German public discourse about migration and asylum between 2000-2005. The title of the thesis is: <i>Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz</i> (The language of migration policy - a linguistic analysis of the debate on migration legislation). <a href="https://chrdoe.github.io/files/do%CC%88hler2009.pdf">pdf</a></font>
-
-2007: **Honours Degree** in linguistics at the University of Melbourne, Australia. <font size="2">I analysed a particular kind of syncretism between first person inclusive and exclusive in various pro-forms of languages in spoken Northern Australia. The thesis title is: <i>The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages</i>. <a href="https://chrdoe.github.io/files/do%CC%88hler2006.pdf">pdf</a></font>
+|2016|**Ph.D** in linguistics at the Australian National University, Canberra.|My dissertation was a full reference grammar of a hitherto undescribed Papuan language. The thesis title is: *A Grammar of Komnzo. A language of Southern New Guinea*. [pdf](https://doi.org/10.25911/5d778a5c79763)|
+|2009|**Magister Artium** in political science, English linguistics, and applied linguistics at the TU Chemnitz, Germany.|My thesis focused on German public discourse about migration and asylum between 2000-2005. The title of the thesis is: *Die Sprache des Migrationsdiskurses. Eine linguistische Analyse der Diskussion um das Zuwanderungsgesetz* (The language of migration policy - a linguistic analysis of the debate on migration legislation).[pdf](/files/döhler2009.pdf)|
+|2007|**Honours Degree** in linguistics at the University of Melbourne, Australia.|I analysed a particular kind of syncretism between first person inclusive and exclusive in various pro-forms of languages in spoken Northern Australia. The thesis title is: *The clusivity flip. Patterns of deponency in the pronoun paradigms of Northern Australian languages*.[pdf](/files/döhler2006.pdf)|
 	
 Funding
 ====
-
-2023-2026: **[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, Deutsche Forschungsgemeinschaft (DFG); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur. <font size="2">We currently develop the intrastructure (workflow, conversion scripts, guidelines, platform, editorial board) for publishing texts in a parallel text format and in an interlinearised format. We publish text collections as (pdf-)books and as a digital database.</font>
-
-2017-2019: **[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**, Endangered Languages Documentation Programme (ELDP). <font size="2">The grant provided the funding for several research trips to the village of Irukupi, where Bine is spoken. Bine was at the time an under-documented language of the Oriomo language family.</font>
-
-2010-2015: **[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, Volkswagen Foundation (DoBeS); co-applicant with Nicholas Evans and Julia Colleen Miller. <font size="2">The grant provided the funding for a detailed documentation of two undescribed Papuan languages from an almost completely unknown language family in Southern New Guinea, plus more basic materials on surrounding languages.</font>
-
-2013: **[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)**, Australian National University (ANU). <font size="2">The grant paid for a research visit to Philadelphia and for the participation in the 3rd International Conference on Language Documentation and Conservation (ICLDC) at the University of Hawaiʻi at Mānoa.</font>
-
-2010-2013: **[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)**, Australian National University (ANU). <font size="2">The scholarship covered my living costs (and secured my visa) as a PhD student in Australia.</font>
+|2023-2026|**[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, Deutsche Forschungsgemeinschaft (DFG); co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur.|We currently develop the intrastructure (workflow, conversion scripts, guidelines, platform, editorial board) for publishing texts in a parallel text format and in an interlinearised format. We publish text collections as (pdf-)books and as a digital database.|
+|2017-2019|**[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**, Endangered Languages Documentation Programme (ELDP).|The grant provided the funding for several research trips to the village of Irukupi, where Bine is spoken. Bine was at the time an under-documented language of the Oriomo language family.|
+|2010-2015|**[Nen & Komnzo - Two languages of Southern New Guinea](https://portal.volkswagenstiftung.de/search/projectPDF.do?projectId=8476)**, Volkswagen Foundation (DoBeS); co-applicant with Nicholas Evans and Julia Colleen Miller.|The grant provided the funding for a detailed documentation of two undescribed Papuan languages from an almost completely unknown language family in Southern New Guinea, plus more basic materials on surrounding languages.|
+|2013|**[Vice Chancellors HDR Travel Grant](https://study.anu.edu.au/scholarships/find-scholarship/vice-chancellors-hdr-travel-grants)**, Australian National University (ANU).|The grant paid for a research visit to Philadelphia and for the participation in the 3rd International Conference on Language Documentation and Conservation (ICLDC) at the University of Hawaiʻi at Mānoa.|
+|2010-2013|**[Stephen and Helen Wurm PhD scholarship](https://study.anu.edu.au/scholarships/find-scholarship/stephen-helen-wurm-phd-scholarship-asia-pacific-linguistics)**, Australian National University (ANU).|The scholarship covered my living costs (and secured my visa) as a PhD student in Australia.|
 
 Awards
 ====
