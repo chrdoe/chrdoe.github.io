@@ -60,15 +60,13 @@ Awards
 Primary data collection (AKA fieldwork)
 ====
 
-[**Bine**](https://glottolog.org/resource/languoid/id/bine1240), 9 months between 2018-2019, Irukupi, Western Province, Papua New Guinea
-
-[**Idi**](https://glottolog.org/resource/languoid/id/idii1243), 3 months between 2016-2017, Bimadbn/Dimsisi, Western Province, Papua New Guinea
-
-[**Komnzo**](https://glottolog.org/resource/languoid/id/wara1294), 18 months between 2010-2016, Rouku, Western Province, Papua New Guinea
-
-[**Tolaki**](https://glottolog.org/resource/languoid/id/tola1247), field methods class in 2010, Australian National University, Canberra
-
-[**Warta Thuntai**](https://glottolog.org/resource/languoid/id/gunt1241), field methods class in 2012, Australian National University, Canberra
+|language|period|location|
+|---|---|-----|
+|[**Bine**](https://glottolog.org/resource/languoid/id/bine1240)|9 months between 2018-2019|Irukupi, Western Province, Papua New Guinea|
+|[**Idi**](https://glottolog.org/resource/languoid/id/idii1243)|3 months between 2016-2017|Bimadbn/Dimsisi, Western Province, Papua New Guinea|
+|[**Komnzo**](https://glottolog.org/resource/languoid/id/wara1294)|18 months between 2010-2016|Rouku, Western Province, Papua New Guinea|
+|[**Tolaki**](https://glottolog.org/resource/languoid/id/tola1247)|field methods class in 2010|Australian National University|
+|[**Warta Thuntai**](https://glottolog.org/resource/languoid/id/gunt1241)|field methods class in 2012|Australian National University|
 
 Membership
 ====
