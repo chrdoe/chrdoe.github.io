@@ -39,7 +39,7 @@ Education
 Funding
 ====
 
-|period|project|funding agency|description|
+|period|project|funding body|description|
 |---|---|---|---|
 |2023-2026|**[Open Text Collections](https://www.bbaw.de/forschung/open-text-collections)**, co-applicant with Sebastian Nordhoff and Mandana Seyfeddinipur.|Deutsche Forschungsgemeinschaft (DFG)|We currently develop the intrastructure (workflow, conversion scripts, guidelines, platform, editorial board) for publishing texts in a parallel text format and in an interlinearised format. We publish text collections as (pdf-)books and as a digital database.|
 |2017-2019|**[A comprehensive documentation of Bine - a language of Southern New Guinea](https://www.elararchive.org/dk0471)**|Endangered Languages Documentation Programme (ELDP)|The grant provided the funding for several research trips to the village of Irukupi, where Bine is spoken. Bine was at the time an under-documented language of the Oriomo language family.|
@@ -50,13 +50,12 @@ Funding
 Awards
 ====
 
-2022: **[Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award)** for *A grammar of Komnzo*, Association for Linguistic Typology (ALT)
-
-2021: **[Franz Boas Award (honourable mention)](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/)** for the *Bine collection* at ELAR, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
-
-2017: **[Stephen Wurm Prize for Pacific Linguistics](https://www.anu.edu.au/students/program-administration/prizes/stephen-wurm-graduate-prize-for-pacific-linguistic-studies)** for *A grammar of Komnzo*, Australian National University (ANU)
-
-2017: **[Franz Boas Award (honourable mention)](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/)** for the *Komnzo collection* at TLA, The Digital Endangered Languages & Musics Archives Network (DELAMAN)
+|period|award title|institution|description|
+|---|---|---|---|
+|2022|**[Georg von der Gabelentz Award](https://linguistic-typology.org/georg-von-der-gabelentz-award)**|Association for Linguistic Typology (ALT)|for *A grammar of Komnzo*|
+|2021|**[Franz Boas Award](https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/)**|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|honourable mention for the *Bine archive collection*|
+|2017|**[Stephen Wurm Prize for Pacific Linguistics](https://www.anu.edu.au/students/program-administration/prizes/stephen-wurm-graduate-prize-for-pacific-linguistic-studies)**|Australian National University|for *A grammar of Komnzo*|
+|2017|**[Franz Boas Award](https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/)**|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|honourable mention for the *Komnzo archive collection* at TLA|
 
 Primary data collection (AKA fieldwork)
 ====
