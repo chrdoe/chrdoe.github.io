@@ -100,7 +100,7 @@ as reviewer
 
 |I have reviewed articles, books, and applications for the following publishers and agencies:|
 |---|
-|Studies in Language, Open Linguistics, NUSA, Language and Linguistics in Melanesia, The International Journal of Bilingualism, Pacific Linguistics, Language Science Press, The Endangered Languages Documentation Programme|
+|Studies in Language, Open Linguistics, NUSA, Language and Linguistics in Melanesia, The International Journal of Bilingualism, Pacific Linguistics, Language Science Press, The Endangered Languages Documentation Programme, SIL International, Folia Linguistica Historica, John Benjamins, Springer, de Gruyter|
 
 as examiner and supervisor
 ----
