@@ -124,4 +124,4 @@ Failures
 
 |Not everything works out. I have applied unsuccessfully to the following organisations for jobs, scholarships, prizes and other things:|
 |---|
-|Australian National University, Universität Zürich, Endangered Languages Documentation Programme, The University of Helsinki, Leibniz-Centre General Linguistics (ZAS), Le laboratoire Dynamique Du Langage (DDL), The University of Melbourne, The University of Sydney|
+|Australian National University, Endangered Languages Documentation Programme, The University of Helsinki, Le laboratoire Dynamique Du Langage (DDL) - Lyon, Leibniz-Centre General Linguistics (ZAS) - Berlin, Universität Leipzig, The University of Melbourne, The University of Sydney, Universität Zürich|
