@@ -53,9 +53,9 @@ Awards
 |year|award title|institution|description|
 |---|---|---|---|
 |2022|<a href="https://linguistic-typology.org/georg-von-der-gabelentz-award" target="_blank">Georg von der Gabelentz Award</a>|Association for Linguistic Typology (ALT)|**prize** for the published book *A grammar of Komnzo* 2018. Berlin: Language Science Press.|
-|2021|<a href="https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/" target="_blank">Franz Boas Award</a>|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|**honourable mention** for the *Bine archive collection* at ELAR|
+|2021|<a href="https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/" target="_blank">Franz Boas Award</a>|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|**honourable mention** for the *Bine archive collection* at ELAR|
 |2017|<a href="https://www.anu.edu.au/students/program-administration/prizes/stephen-wurm-graduate-prize-for-pacific-linguistic-studies" target="_blank">Stephen Wurm Prize for Pacific Linguistics</a>|Australian National University|**prize** for the thesis *A Grammar of Komnzo. A language of Southern New Guinea*|
-|2017|<a href="https://www.delaman.org/news/2021-delaman-award-goes-to-karolina-grzech/" target="_blank">Franz Boas Award</a>|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|**honourable mention** for the *Komnzo archive collection* at TLA|
+|2017|<a href="https://www.delaman.org/news/sonja-riesberg-receives-first-delaman-franz-boas-award/" target="_blank">Franz Boas Award</a>|The Digital Endangered Languages & Musics Archives Network (DELAMAN)|**honourable mention** for the *Komnzo archive collection* at TLA|
 
 Primary data collection (AKA fieldwork)
 ====
