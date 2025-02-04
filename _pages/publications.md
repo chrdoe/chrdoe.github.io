@@ -28,7 +28,9 @@ Nicholas, Evans, Mae Carroll, and Christian Döhler. (forthcoming). **Historical
 
 Döhler, Christian. (forthcoming). **Bine sketch grammar**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL_Bine_sketch_grammar-preprint.pdf" target="_blank">pdf preview</a>
 
-Döhler, Christian. (accepted). ***That* placeholder in Komnzo**. In: Pakendorf, Brigitte and Françoise Rose (eds.), *Fillers and Placeholders*. Berlin: Language Science Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_That_placeholder_Komnzo-preprint.pdf" target="_blank">pdf preview</a>
+Döhler, Christian. (forthcoming). ***That* placeholder in Komnzo**. In: Pakendorf, Brigitte and Françoise Rose (eds.), *Fillers and Placeholders*. Berlin: Language Science Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_That_placeholder_Komnzo-preprint.pdf" target="_blank">pdf preview</a>
+
+Döhler, Christian. (accepted). **Komnzo demonstratives and epistemic authority**. In: Bergqvist, Henrik and Karolina Grzech (eds.), *Expanding the boundaries of epistemicity: epistemic modality, evidentiality, and beyond.* Berlin: Mouton de Gruyter.
 
 Barth, Danielle, Nicholas Evans, Sonja Gipper, Stefan Schnell, Henrik Bergqvist, Menguistu Amberber, I Wayan Arka, Christian Döhler, Diana Forker, Volker Gast, Dolgor Guntsetseg, Gabrielle Hodge, Eri Kashima, Yukinori Kimoto, Norikazu Kogura, Dominique Knuchel, Inge Kral, Keita Kurabe, John Mansfield, Heiko Narrog, Desak Putu Eka Pratiwi, Hiroki Nomoto, Seongha Rhee, Alan Rumsey, Lila San Roque, Andrea C. Schalley, Asako Shiohara, Elena Skribnik, Olena Tykhostup, Saskia van Putten, and Yanti. 2024. **The Social Cognition Parallax Interview Corpus (SCOPIC) Project Guidelines.** In: Danielle Barth and Nicholas Evans (eds.), *Social Cognition Parallax Interview Corpus (SCOPIC)* (Language Documentation & Conservation Special Publication No. 12). Honolulu: University of Hawai'i Press, 163–237. URL: <a href="http://hdl.handle.net/10125/74790" target="_blank">http://hdl.handle.net/10125/74790</a>
 
