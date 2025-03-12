@@ -81,7 +81,6 @@ Membership
 
 Service
 ====
-
 as board member
 ----
 
