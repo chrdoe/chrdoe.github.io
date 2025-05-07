@@ -1,3 +1,1 @@
-# Academic Pages
-
-This is a personal website for Christian Döhler. It is based on the template of Academic Pages. See more info at https://academicpages.github.io/
+This is a personal website for Christian Döhler (alternative spellings: Christian Doehler, Christian Dohler). The website presents my work as a linguist in the fields of language documentation and description, comparative linguistics, linguistic complexity, Papuan languages, multilingualism, face-to-face interaction, anthropology, and ethnobiology.
