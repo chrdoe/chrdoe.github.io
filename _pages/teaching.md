@@ -17,6 +17,10 @@ Lecturer
 
 2024: [lecturer] for **Einführung in eine nicht-indoeuropäische Sprache: Komnzo** at Universität Regensburg.
 
+2021: [guest-lecturer] for **Corpus linguistics** at Humboldt Universität Berlin.
+
+2020: [guest-lecturer] for **Language and its environment** at Universität zu Köln.
+
 2019: [lecturer] for **Verb morphology in Papuan languages** at Universität zu Köln.
 
 2018: [lecturer] for **Corpus linguistics of language documentation** at the COEDL summer school at the Australian National University.
