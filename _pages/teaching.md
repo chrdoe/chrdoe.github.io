@@ -11,6 +11,8 @@ I have been involved in teaching since my second semester at university. I belie
 
 Lecturer
 ======
+2024: [lecturer] for a workshop on **Fieldwork and audio-visual data collection** for graduate students of the RTG 2636 ``form-meaning mismatches'', Georg-August-Universität Göttingen.
+
 2024: [lecturer] for **Einführung in eine nicht-indoeuropäische Sprache: Komnzo** at Universität Regensburg.
 
 2019: [lecturer] for **Verb morphology in Papuan languages** at Universität zu Köln.
