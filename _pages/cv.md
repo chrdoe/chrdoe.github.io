@@ -87,13 +87,14 @@ as board member
 
 |period|institution|description|
 |---|---|-----|
-|since 2024|Language Science Press|editor-in-chief for the series [Open Text Collections](https://langsci-press.org/catalog/series/otc)| 
+|since 2025|Language Science Press|editor of the series [Languages of the New Guinea Region](https://langsci-press.org/catalog/series/lngr)|
+|since 2024|Language Science Press|editor-in-chief for the series [Open Text Collections](https://langsci-press.org/catalog/series/otc)|
 |2022-2023|[Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/)|member of the workers' council (Betriebsrat)|
-|since 2021|[Förderverein deutsche Linguistik-Olympiade e.V. (DOL)](https://linguistikolympiade.de/)|board member| 
+|since 2021|[Förderverein deutsche Linguistik-Olympiade e.V. (DOL)](https://linguistikolympiade.de/)|board member|
 |since 2021|Language Science Press|editorial board member for the series [Comprehensive Grammar Library](https://langsci-press.org/catalog/series/cogl)|
 |2018-2021|Language Science Press|editorial board member for the series [Studies in Diversity Linguistics](https://langsci-press.org/catalog/series/sidl)|
 |since 2015|Language Science Press|proofreader|
-|2013-2014|Department of Linguistics, Australian National University|PhD student representative| 
+|2013-2014|Department of Linguistics, Australian National University|PhD student representative|
 
 as reviewer
 ----
