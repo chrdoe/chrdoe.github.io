@@ -8,7 +8,7 @@ author_profile: true
 Upcoming
 ====
 
-Sep 2025: *title tba*. [Syntax of the World's Languages X](https://sites.google.com/view/swl-x/home), Universität Potsdam
+Sep 2025: *Multilingualism in Linguistic Melanesia: A contribution to the typology of language contact*. [Syntax of the World's Languages X](https://sites.google.com/view/swl-x/home), Universität Potsdam
 
 Plenary
 ====
