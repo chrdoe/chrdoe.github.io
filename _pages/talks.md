@@ -71,7 +71,7 @@ Jun 2021: *Front rounded vowels in the Tonda languages of the Yam family*. 13th 
 
 Mar 2021: *Placeholders in Komnzo and Bine: A corpus view*. CNRS, Lyon.
 
-Nov 2020: *Periphals in Proto-Yam*. Australian National University, Canberra. [with Matthew Carroll and Nicholas Evans]
+Nov 2020: *Peripherals in Proto-Yam*. Australian National University, Canberra. [with Matthew Carroll and Nicholas Evans]
 
 Oct 2020: *Placeholders*. Australian National University, Canberra.
 
