@@ -13,7 +13,7 @@ Oct 2025: *Demonstrative systems in the languages of Southern New Guinea* [CTPL3
 Plenary
 ====
 
-Sep 2025: *Multilingualism in Linguistic Melanesia: A contribution to the typology of language contact*. [Syntax of the World's Languages X](https://sites.google.com/view/swl-x/home), Universität Potsdam
+Sep 2025: *Multilingualism in Linguistic Melanesia: A contribution to the typology of language contact*. [Syntax of the World's Languages X](https://sites.google.com/view/swl-x/home), Universität Potsdam.
 
 Dec 2022: *Every language matters! Types of knowledge that come from individual descriptions*. [14th International Conference of the Association for Linguistic Typology](https://sites.google.com/view/alt2022/program), University of Austin Texas.
 
