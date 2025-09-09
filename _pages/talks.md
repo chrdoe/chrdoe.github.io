@@ -8,7 +8,7 @@ author_profile: true
 Upcoming
 ====
 
-Oct 2025: *Demonstrative systems in the languages of Southern New Guinea* [CTPL3: Current Trends in Papuan Linguistics III](https://ctpl3.sciencesconf.org), Ile d'Arz (France).
+Oct 2025: *Demonstrative systems in the languages of Southern New Guinea*. [CTPL3: Current Trends in Papuan Linguistics III](https://ctpl3.sciencesconf.org), Ile d'Arz (France).
 
 Plenary
 ====
