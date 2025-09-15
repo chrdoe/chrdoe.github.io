@@ -26,13 +26,13 @@ Aznar, Jocelyn, Jozina Vander Klok, and Christian Döhler (eds). 2023. *Special 
 Peer-reviewed articles & chapters
 ===
 
-Döhler, Christian. (to appear). **Multilingualism in the Papuasphere**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL_multilingualism-preprint.pdf" target="_blank">pdf preview</a>
+Döhler, Christian. (to appear). **Multilingualism in the Papuasphere**. In: Evans, Nicholas and Sebastian Fedden (eds.), <a href="https://global.oup.com/academic/product/the-oxford-guide-to-the-papuan-languages-9780198849483?cc=de&lang=en&" target="_blank">*The Oxford Guide to Papuan Languages*</a>. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL_multilingualism-preprint.pdf" target="_blank">pdf preview</a>
 
-Olsson, Bruno and Christian Döhler. (to appear). **Alignment in Papuan languages**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL-alignment_preprint.pdf" target="_blank">pdf preview</a>
+Olsson, Bruno and Christian Döhler. (to appear). **Alignment in Papuan languages**. In: Evans, Nicholas and Sebastian Fedden (eds.), <a href="https://global.oup.com/academic/product/the-oxford-guide-to-the-papuan-languages-9780198849483?cc=de&lang=en&" target="_blank">*The Oxford Guide to Papuan Languages*</a>. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL-alignment_preprint.pdf" target="_blank">pdf preview</a>
 
-Nicholas, Evans, Mae Carroll, and Christian Döhler. (to appear). **Historical Linguistics of the Yam family**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press.
+Nicholas, Evans, Mae Carroll, and Christian Döhler. (to appear). **Historical Linguistics of the Yam family**. In: Evans, Nicholas and Sebastian Fedden (eds.), <a href="https://global.oup.com/academic/product/the-oxford-guide-to-the-papuan-languages-9780198849483?cc=de&lang=en&" target="_blank">*The Oxford Guide to Papuan Languages*</a>. Oxford: Oxford University Press.
 
-Döhler, Christian. (to appear). **Bine sketch grammar**. In: Evans, Nicholas and Sebastian Fedden (eds.), *The Oxford Guide to Papuan Languages*. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL_Bine_sketch_grammar-preprint.pdf" target="_blank">pdf preview</a>
+Döhler, Christian. (to appear). **Bine sketch grammar**. In: Evans, Nicholas and Sebastian Fedden (eds.), <a href="https://global.oup.com/academic/product/the-oxford-guide-to-the-papuan-languages-9780198849483?cc=de&lang=en&" target="_blank">*The Oxford Guide to Papuan Languages*</a>. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL_Bine_sketch_grammar-preprint.pdf" target="_blank">pdf preview</a>
 
 Döhler, Christian. (to appear). **Komnzo demonstratives and epistemic authority**. In: Bergqvist, Henrik and Karolina Grzech (eds.), *Expanding the boundaries of epistemicity: epistemic modality, evidentiality, and beyond.* Berlin: Mouton de Gruyter.
 
