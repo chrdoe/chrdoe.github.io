@@ -39,6 +39,10 @@ Oct 2019: *The middle template in Komnzo*. guest lecture, Katholieke Universitei
 Conference presentations
 ====
 
+Feb 2025: *Epistemic marking in Komnzo* Symposium on ``Knowledge, interaction, and grammar'', Gothenburg University, Sweden.
+
+Sep 2024: *Lifting the stepchild out of poverty: Text collections as a complement to grammars and dictionaries* 21st International Congress of Linguists, Adam Mickiewicz University, Poznań, Poland. [with Sebastian Nordhoff].
+
 Sep 2024: *Can we reconstruct an ERG-ABS system for pYam?* The diachrony of flagging (Cas et adpositions en diachronie), Collège de France, Paris.
 
 Jul 2024: *Traces of contact-induced divergence in the lexicons of Yam languages*, 16th Austronesian and Papuan Languages and Linguistics Conference, VU Amsterdam.
