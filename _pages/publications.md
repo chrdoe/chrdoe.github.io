@@ -57,6 +57,8 @@ Evans, Nicholas, I Wayan Arka, Matthew Carroll, Christian Döhler, Eri Kashima, 
 Documentation materials & resources
 ===
 
+Döhler, Christian. 2024. **Komnzo DoReCo dataset**. In Seifart, Frank, Ludger Paschen and Matthew Stave (eds.). *Language Documentation Reference Corpus (DoReCo) 2.0.* Lyon: Laboratoire Dynamique Du Langage (UMR5596, CNRS & Université Lyon 2). <a href="https://doreco.huma-num.fr/languages/komn1238" target="_blank">https://doreco.huma-num.fr/languages/komn1238</a> (Accessed on 30/10/2025). DOI: <a href="http://doi.org/10.34847/nkl.c5e6dudv" target="_blank">10.34847/nkl.c5e6dudv</a>
+
 Döhler, Christian. 2018. ***A comprehensive documentation of Bine - a language of Southern New Guinea***. London: SOAS, Endangered Languages Archive. URL: <a href="https://elar.soas.ac.uk/Collection/MPI1083775" target="_blank">https://elar.soas.ac.uk/Collection/MPI1083775</a>
 
 Döhler, Christian. 2018. ***Komnzo text corpus***. Zenodo. DOI: <a href="http://doi.org/10.5281/zenodo.1306246" target="_blank">10.5281/zenodo.1306246</a>
