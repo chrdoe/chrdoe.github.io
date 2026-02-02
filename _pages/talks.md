@@ -8,8 +8,6 @@ author_profile: true
 Upcoming
 ====
 
-Oct 2025: *Demonstrative systems in the languages of Southern New Guinea*. [CTPL3: Current Trends in Papuan Linguistics III](https://ctpl3.sciencesconf.org), Ile d'Arz (France).
-
 Plenary
 ====
 
@@ -38,6 +36,8 @@ Oct 2019: *The middle template in Komnzo*. guest lecture, Katholieke Universitei
 
 Conference presentations
 ====
+
+Oct 2025: *Demonstrative systems in the languages of Southern New Guinea*. [CTPL3: Current Trends in Papuan Linguistics III](https://ctpl3.sciencesconf.org), Ile d'Arz (France).
 
 Feb 2025: *Epistemic marking in Komnzo*. Symposium on ``Knowledge, interaction, and grammar'', Gothenburg University, Sweden.
 
