@@ -38,6 +38,7 @@ Oct 2019: *The middle template in Komnzo*. guest lecture, Katholieke Universitei
 
 Conference presentations
 ====
+Feb 2026: *“Lexical isolation” - Examining the autonomy of the verb class in Komnzo*. Working Group in Empirical Linguistics (WoGEL), Uppsala Universitet.
 
 Oct 2025: *Demonstrative systems in the languages of Southern New Guinea*. [CTPL3: Current Trends in Papuan Linguistics III](https://ctpl3.sciencesconf.org), Ile d'Arz (France).
 
