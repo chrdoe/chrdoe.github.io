@@ -34,6 +34,8 @@ Nicholas, Evans, Mae Carroll, and Christian Döhler. (to appear). **Historical L
 
 Döhler, Christian. (to appear). **Bine sketch grammar**. In: Evans, Nicholas and Sebastian Fedden (eds.), <a href="https://global.oup.com/academic/product/the-oxford-guide-to-the-papuan-languages-9780198849483?cc=de&lang=en&" target="_blank">*The Oxford Guide to Papuan Languages*</a>. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL_Bine_sketch_grammar-preprint.pdf" target="_blank">pdf preview</a>
 
+Evans, Nicholas, Danielle Barth, I Wayan Arka, Henrik Bergqvist, Christian Döhler, Sonja Gipper, Yukinori Kimoto, Eka Pratiwi, Saskia van Putten, Andrea C. Schalley, Asako Shiohara, Yanti. 2025. **Is Complementation a Universal Strategy? A Cross-Linguistic Corpus Study**. *Linguistic Typology at the Crossroads*, vol. 5, no. 2, pp. 66-104. DOI: <a href="https://doi.org/10.60923/issn.2785-0943/21288" target="_blank">10.60923/issn.2785-0943/21288</a>
+
 Döhler, Christian. 2025. **Komnzo demonstratives and intersubjectivity**. In: Grzech, Karolina and Henrik Bergqvist (eds.), *Expanding the boundaries of epistemicity: epistemic modality, evidentiality, and beyond*, pp. 203-228, Berlin: Mouton de Gruyter. DOI: <a href="https://doi.org/10.1515/9783111516233-007" target="_blank">10.1515/9783111516233-007</a>
 
 Döhler, Christian. 2025. **That placeholder in Komnzo**. In Brigitte Pakendorf & Françoise Rose (eds.), *Fillers: Hesitatives and placeholders*, pp. 275–313. Berlin: Language Science Press. DOI: <a href="https://zenodo.org/records/15697589" target="_blank">10.5281/zenodo.15697589</a>
