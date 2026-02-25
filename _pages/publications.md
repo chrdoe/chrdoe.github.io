@@ -34,9 +34,9 @@ Nicholas, Evans, Mae Carroll, and Christian Döhler. (to appear). **Historical L
 
 Döhler, Christian. (to appear). **Bine sketch grammar**. In: Evans, Nicholas and Sebastian Fedden (eds.), <a href="https://global.oup.com/academic/product/the-oxford-guide-to-the-papuan-languages-9780198849483?cc=de&lang=en&" target="_blank">*The Oxford Guide to Papuan Languages*</a>. Oxford: Oxford University Press. <a href="https://chrdoe.github.io/files/do%CC%88hler2025_OGPL_Bine_sketch_grammar-preprint.pdf" target="_blank">pdf preview</a>
 
-Evans, Nicholas, Danielle Barth, I Wayan Arka, Henrik Bergqvist, Christian Döhler, Sonja Gipper, Yukinori Kimoto, Dominique Knuchel, Daniel Majchrzak, Hitomi Ono, Eka Pratiwi, Saskia van Putten, Andrea C. Schalley, Asako Shiohara, Yanti. 2025. **Is Complementation a Universal Strategy? A Cross-Linguistic Corpus Study**. *Linguistic Typology at the Crossroads*, vol. 5, no. 2, pp. 66-104. DOI: <a href="https://doi.org/10.60923/issn.2785-0943/21288" target="_blank">10.60923/issn.2785-0943/21288</a>
+Evans, Nicholas, Danielle Barth, I Wayan Arka, Henrik Bergqvist, Christian Döhler, Sonja Gipper, Yukinori Kimoto, Dominique Knuchel, Daniel Majchrzak, Hitomi Ono, Eka Pratiwi, Saskia van Putten, Andrea C. Schalley, Asako Shiohara, Yanti. 2025. **Is Complementation a Universal Strategy? A Cross-Linguistic Corpus Study**. *Linguistic Typology at the Crossroads*, vol. 5, no. 2, pp. 66–104. DOI: <a href="https://doi.org/10.60923/issn.2785-0943/21288" target="_blank">10.60923/issn.2785-0943/21288</a>
 
-Döhler, Christian. 2025. **Komnzo demonstratives and intersubjectivity**. In: Grzech, Karolina and Henrik Bergqvist (eds.), *Expanding the boundaries of epistemicity: epistemic modality, evidentiality, and beyond*, pp. 203-228, Berlin: Mouton de Gruyter. DOI: <a href="https://doi.org/10.1515/9783111516233-007" target="_blank">10.1515/9783111516233-007</a>
+Döhler, Christian. 2025. **Komnzo demonstratives and intersubjectivity**. In: Grzech, Karolina and Henrik Bergqvist (eds.), *Expanding the boundaries of epistemicity: epistemic modality, evidentiality, and beyond*, pp. 203–228, Berlin: Mouton de Gruyter. DOI: <a href="https://doi.org/10.1515/9783111516233-007" target="_blank">10.1515/9783111516233-007</a>
 
 Döhler, Christian. 2025. **That placeholder in Komnzo**. In Brigitte Pakendorf & Françoise Rose (eds.), *Fillers: Hesitatives and placeholders*, pp. 275–313. Berlin: Language Science Press. DOI: <a href="https://zenodo.org/records/15697589" target="_blank">10.5281/zenodo.15697589</a>
 
@@ -50,7 +50,7 @@ Döhler, Christian. 2023. **Fluidity in argument indexing in Komnzo**. *Open Lin
 
 Döhler, Christian. 2022. **Expressions of directed caused accompanied motion in Komnzo**. In: Margetts, A., B. Hellwig, S. Riesberg (eds.), *The expression of caused accompanied motion events*, pp. 273–300, Amsterdam/Philadelphia: John Benjamins. DOI: <a href="https://benjamins.com/catalog/tsl.134.10doh" target="_blank">10.1075/tsl.134.10doh</a>
 
-Döhler, Christian. 2021. **Birds and places: What the lexicon reveals about multilingualism**. *International Journal of Bilingualism*, vol. 25, no. 4, pp. 1142-1157. DOI: <a href="https://doi.org/10.1177/13670069211023158" target="_blank">10.1177/13670069211023158</a>
+Döhler, Christian. 2021. **Birds and places: What the lexicon reveals about multilingualism**. *International Journal of Bilingualism*, vol. 25, no. 4, pp. 1142–1157. DOI: <a href="https://doi.org/10.1177/13670069211023158" target="_blank">10.1177/13670069211023158</a>
 
 Shokkin, Dineke, Volker Gast, Nicholas Evans, and Christian Döhler. 2021. **Phonetics and phonology of Idi**. *Language Documentation & Conservation - Special Issue No.24: Phonology in Southern New Guinea*, pp. 76–107, URL: <a href="http://hdl.handle.net/10125/24995" target="_blank">http://hdl.handle.net/10125/24995</a>
 
