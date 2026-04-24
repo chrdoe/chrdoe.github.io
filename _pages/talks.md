@@ -44,6 +44,8 @@ Oct 2025: *Demonstrative systems in the languages of Southern New Guinea*. [CTPL
 
 Feb 2025: *Epistemic marking in Komnzo*. Symposium on ``Knowledge, interaction, and grammar'', Gothenburg University, Sweden.
 
+Nov 2024: *A Phylogeny of Yam Languages*. Australian Linguistic Society Annual Conference, Australian National University, Canberra, Australia. [with Mae Carroll, Sam Passmore, and Nicholas Evans].
+
 Sep 2024: *Lifting the stepchild out of poverty: Text collections as a complement to grammars and dictionaries*. 21st International Congress of Linguists, Adam Mickiewicz University, Poznań, Poland. [with Sebastian Nordhoff].
 
 Sep 2024: *Can we reconstruct an ERG-ABS system for pYam?* The diachrony of flagging (Cas et adpositions en diachronie), Collège de France, Paris.
