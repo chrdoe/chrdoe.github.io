@@ -8,7 +8,7 @@ author_profile: true
 Upcoming
 ====
 
-Jun 2026: *The autonomy of the verb class in Komnzo*, Vielfaltslinguistik 8, Christian-Albrechts-Universität, Kiel.
+Jun 2026: *The autonomy of the verb class in Komnzo*, [Vielfaltslinguistik 8](https://www.isfas.uni-kiel.de/de/linguistik-und-phonetik/veranstaltungen/vielfaltslinguistik-8), Christian-Albrechts-Universität, Kiel.
 
 Plenary
 ====
