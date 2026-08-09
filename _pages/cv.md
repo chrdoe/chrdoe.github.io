@@ -101,7 +101,7 @@ as reviewer
 
 |I have reviewed articles, books, and applications for the following publishers and institutions:|
 |---|
-|Studies in Language, Open Linguistics, NUSA, Language and Linguistics in Melanesia, The International Journal of Bilingualism, Pacific Linguistics, Language Science Press, The Endangered Languages Documentation Programme, SIL International, Folia Linguistica Historica, John Benjamins, Springer, Walther de Gruyter, Linguistik Online, Association of Linguistic Typology|
+|Association of Linguistic Typology, Folia Linguistica Historica, John Benjamins, Language and Linguistics in Melanesia, Language Science Press, Linguistics Vanguard, Lingvisticæ Investigationes: International Journal of Linguistics and Language Resources, Linguistik Online, NUSA: Linguistic studies of languages in and around Indonesia, Oceanic Linguistics, Open Linguistics, Pacific Linguistics, SIL International, Springer, Studies in Language, The Endangered Languages Documentation Programme, The International Journal of Bilingualism, Walther de Gruyter|
 
 as examiner and supervisor
 ----
