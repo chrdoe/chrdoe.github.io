@@ -52,6 +52,8 @@ Döhler, Christian. 2023. **Fluidity in argument indexing in Komnzo**. *Open Lin
 
 Döhler, Christian. 2022. **Expressions of directed caused accompanied motion in Komnzo**. In: Margetts, A., B. Hellwig, S. Riesberg (eds.), *The expression of caused accompanied motion events*, pp. 273–300, Amsterdam/Philadelphia: John Benjamins. DOI: <a href="https://benjamins.com/catalog/tsl.134.10doh" target="_blank">10.1075/tsl.134.10doh</a>
 
+Thonicke, Kirsten, Eva Rahner, Almut Arneth, Bartosz Bartkowski, Aletta Bonn, Christian Döhler, Robert Finger, Jens Freitag, Rita Grosch, Hans-Peter Grossart, Kim Grützmacher, Amber Hartman Scholz, Christoph Häuser, Thomas Hickler, Franz Hölker, Sonja C. Jähnig, Jonathan Jeschke, Rees Kassen, Thomas Kastner, Stephanie Kramer-Schadt, Cornelia Krug, Sebastian Lakner, Lasse Loft, Bettina Matzdorf, Felicity Meakins, Luc De Meester, Michael T. Monaghan, Daniel Müller, Jörg Overmann, Martin Quaas, Viktoriia Radchuk, Christopher Reyer, Christian Roos, Imme Scholz, Sibylle Schroer, Giles Bruno Sioen, Simone Sommer, Nike Sommerwerk, Klement Tockner, Zachary Turk, Barbara Warner, Frank Wätzold, Wolfgang Wende, Tonjes Veenstra, Hein van der Voort 2022. ***10 Must-Knows aus der Biodiversitätsforschung***. Potsdam, Deutschland. 60 pages. DOI: <a href="https://zenodo.org/record/6257476" target="_blank">10.5281/zenodo.6257476</a>
+
 Döhler, Christian. 2021. **Birds and places: What the lexicon reveals about multilingualism**. *International Journal of Bilingualism*, vol. 25, no. 4, pp. 1142–1157. DOI: <a href="https://doi.org/10.1177/13670069211023158" target="_blank">10.1177/13670069211023158</a>
 
 Shokkin, Dineke, Volker Gast, Nicholas Evans, and Christian Döhler. 2021. **Phonetics and phonology of Idi**. *Language Documentation & Conservation - Special Issue No.24: Phonology in Southern New Guinea*, pp. 76–107, URL: <a href="http://hdl.handle.net/10125/24995" target="_blank">http://hdl.handle.net/10125/24995</a>
@@ -75,8 +77,6 @@ Döhler, Christian. 2015. ***Komnzo - a language of Southern New Guinea***. Nijm
 
 Other academic works
 ===
-
-Thonicke, K., Rahner, E., Arneth, A., Bartkowski, B., Bonn, A., Döhler, C., Finger, R., Freitag, J., Grosch, R., Grossart, H.-P., Grützmacher, K., Hartman Scholz, A., Häuser, C., Hickler, T., Hölker, F., Jähnig, S. C., Jeschke, J., Kasen, R., Kastner, T., Kramer-Schadt, S., Krug, C., Lakner, S., Loft, L., Matzdorf, B., Meakins, F., De Meester, L., Monaghan, M. T., Müller, D., Overmann, J., Quaas, M., Radchuk, V., Reyer, C., Roos, C., Scholz, I., Schroer, S., Sioen, G. B., Sommer, S., Sommerwerk, N., Tockner, K., Turk, Z., Warner, B., Wätzold, F., Wende, W., Veenstra, T. und van der Voort, H. 2022. ***10 Must-Knows aus der Biodiversitätsforschung***. Potsdam, Deutschland. 60 pages. DOI: <a href="https://zenodo.org/record/6257476" target="_blank">10.5281/zenodo.6257476</a>
 
 Döhler, Christian. 2022. **Feldforschung in Zeiten pandemiebedingter Reisebeschränkungen**. In: Leibniz-Zentrum Allgemeine Sprachwissenschaft (ed.). *Bericht über das Forschungsjahr 2020/2021*, 132–134. Berlin: ZAS.
 
