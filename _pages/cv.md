@@ -14,7 +14,7 @@ Work
 
 |period|position|institution|description|
 |---|---|---|---|
-|2023-today|**Researcher**|Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany.| I currently work on a DFG-funded intrastructure project <a href="https://opentextcollections.github.io/" target="_blank">Open Text Collections</a> developing a publishing platform for interlinearised text.|
+|2023-today|**Editor, project coordinator**|Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Germany.| I currently work on a DFG-funded intrastructure project <a href="https://opentextcollections.github.io/" target="_blank">Open Text Collections</a> developing a publishing platform for interlinearised text.|
 |2021|**Parental leave**|| By far the busiest 9 months in this CV.|
 |2020-2023| **Researcher**|Leibniz - Centre General Linguistics (ZAS), Germany.| I worked on a two-strand project that addressed multilingualism and complex verb morphology in the languages of Southern New Guinea.|
 |2017-2019|**Researcher**|Universität zu Köln, Germany.|I worked on the project <a href="https://www.elararchive.org/dk0471" target="_blank">A comprehensive documentation of Bine - a language of Southern New Guinea</a>.|
